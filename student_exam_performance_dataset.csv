@@ -1,0 +1,1001 @@
+student_id,gender,age,class,math_score,english_score,class_attendance,study_hours_per_week,preferred_study_method,parent_education,internet_access,students_jamb_score,parental_income,health_issues,extracurricular_participation
+1,Male,16,SS3,87,51,80,20,Tutorials,Primary,No,298,Medium,Yes,No
+2,Male,18,SS3,89,78,86,14,Group Study,Secondary,No,343,Medium,Yes,Yes
+3,Female,16,SS3,95,91,72,13,Tutorials,Primary,No,317,High,No,No
+4,Male,18,SS3,57,40,100,6,Tutorials,Tertiary,No,153,Low,No,No
+5,Male,18,SS3,86,54,73,17,Individual,Tertiary,No,270,High,No,Yes
+6,Male,18,SS3,96,56,75,8,Group Study,Primary,No,317,High,No,Yes
+7,Male,16,SS3,47,78,100,10,Individual,Tertiary,No,281,Medium,Yes,No
+8,Male,16,SS3,89,91,94,6,Group Study,Tertiary,No,344,Low,No,No
+9,Female,17,SS3,97,100,87,11,Individual,Primary,Yes,188,Low,Yes,No
+10,Male,16,SS3,41,59,87,13,Tutorials,Secondary,No,251,Medium,No,No
+11,Male,16,SS3,61,85,70,20,Group Study,Primary,No,208,High,Yes,Yes
+12,Male,18,SS3,91,85,90,8,Group Study,Primary,Yes,208,Low,Yes,Yes
+13,Male,16,SS3,67,81,72,19,Tutorials,Primary,No,335,High,Yes,No
+14,Male,16,SS3,57,57,76,15,Tutorials,Tertiary,Yes,341,Medium,No,Yes
+15,Male,18,SS3,73,67,91,13,Individual,Secondary,Yes,203,Medium,Yes,No
+16,Male,16,SS3,44,97,90,16,Group Study,Tertiary,Yes,271,High,Yes,Yes
+17,Female,18,SS3,56,64,94,16,Individual,Tertiary,Yes,209,Low,Yes,Yes
+18,Male,16,SS3,85,94,76,13,Group Study,Primary,Yes,282,High,No,Yes
+19,Female,16,SS3,76,62,97,16,Group Study,Tertiary,Yes,300,Low,No,No
+20,Female,17,SS3,80,69,91,5,Individual,Secondary,Yes,291,Medium,Yes,Yes
+21,Male,16,SS3,44,56,83,18,Tutorials,Primary,No,343,High,Yes,No
+22,Male,18,SS3,71,53,96,8,Tutorials,Secondary,No,269,Medium,Yes,No
+23,Female,16,SS3,69,69,73,16,Individual,Secondary,Yes,334,Medium,No,No
+24,Female,17,SS3,72,59,76,11,Tutorials,Tertiary,No,268,Low,No,Yes
+25,Female,16,SS3,63,83,87,10,Individual,Tertiary,No,237,Low,Yes,No
+26,Male,16,SS3,43,73,96,14,Tutorials,Tertiary,Yes,171,Low,No,Yes
+27,Male,18,SS3,71,92,92,16,Individual,Primary,No,230,High,No,No
+28,Female,17,SS3,94,79,98,15,Individual,Tertiary,Yes,198,Low,Yes,Yes
+29,Male,16,SS3,76,65,93,20,Individual,Secondary,No,259,High,No,No
+30,Male,16,SS3,50,77,94,19,Individual,Secondary,No,347,High,Yes,Yes
+31,Female,18,SS3,63,46,83,7,Tutorials,Primary,No,328,Low,Yes,Yes
+32,Male,16,SS3,50,40,90,17,Group Study,Tertiary,No,256,Medium,Yes,Yes
+33,Female,16,SS3,56,72,96,14,Tutorials,Secondary,No,203,High,Yes,Yes
+34,Female,16,SS3,89,82,100,19,Group Study,Secondary,Yes,262,High,Yes,Yes
+35,Female,17,SS3,46,93,72,9,Individual,Secondary,Yes,265,Low,Yes,No
+36,Male,16,SS3,97,93,93,10,Group Study,Secondary,Yes,292,High,Yes,Yes
+37,Female,18,SS3,76,63,91,15,Group Study,Primary,No,157,Low,No,Yes
+38,Male,17,SS3,83,75,74,18,Tutorials,Secondary,Yes,245,Medium,Yes,No
+39,Female,16,SS3,86,81,70,17,Individual,Secondary,Yes,185,Medium,No,No
+40,Male,16,SS3,47,78,84,7,Individual,Secondary,No,297,High,No,Yes
+41,Female,17,SS3,54,78,92,7,Individual,Secondary,Yes,182,Low,Yes,No
+42,Female,16,SS3,87,58,80,10,Group Study,Secondary,Yes,228,Low,Yes,Yes
+43,Male,16,SS3,72,59,71,15,Individual,Tertiary,No,338,Low,Yes,No
+44,Male,18,SS3,40,83,72,12,Tutorials,Primary,Yes,152,Medium,No,No
+45,Male,17,SS3,42,46,72,15,Group Study,Primary,Yes,277,Medium,Yes,Yes
+46,Male,18,SS3,94,70,71,15,Group Study,Tertiary,Yes,318,Low,Yes,Yes
+47,Female,16,SS3,95,44,75,14,Group Study,Secondary,No,240,Low,Yes,Yes
+48,Male,18,SS3,40,61,95,13,Group Study,Tertiary,Yes,236,Low,No,Yes
+49,Male,16,SS3,55,57,78,17,Tutorials,Secondary,Yes,207,High,Yes,Yes
+50,Male,17,SS3,42,80,87,13,Group Study,Secondary,No,257,High,Yes,No
+51,Female,17,SS3,70,60,72,19,Group Study,Secondary,Yes,258,Medium,Yes,Yes
+52,Female,17,SS3,63,95,88,16,Tutorials,Primary,No,325,High,Yes,No
+53,Female,18,SS3,64,57,96,19,Individual,Tertiary,Yes,342,Medium,Yes,Yes
+54,Female,18,SS3,98,56,77,18,Tutorials,Secondary,No,253,Low,No,Yes
+55,Male,16,SS3,49,81,99,10,Individual,Tertiary,Yes,345,High,Yes,Yes
+56,Female,17,SS3,51,85,78,10,Group Study,Secondary,No,349,High,Yes,No
+57,Female,18,SS3,99,100,83,5,Group Study,Primary,No,326,Medium,No,No
+58,Male,16,SS3,94,97,82,9,Group Study,Tertiary,Yes,287,Low,Yes,No
+59,Female,18,SS3,42,81,84,12,Tutorials,Tertiary,No,226,Low,No,Yes
+60,Male,16,SS3,75,59,90,13,Individual,Primary,Yes,233,Low,No,No
+61,Male,18,SS3,91,52,82,7,Individual,Primary,Yes,300,Low,No,No
+62,Male,18,SS3,98,49,83,11,Tutorials,Primary,Yes,155,Medium,No,Yes
+63,Male,18,SS3,85,73,80,10,Tutorials,Secondary,No,295,Medium,No,No
+64,Female,17,SS3,87,88,70,17,Individual,Secondary,No,158,Medium,Yes,Yes
+65,Female,17,SS3,81,55,82,8,Tutorials,Tertiary,No,185,High,No,No
+66,Female,18,SS3,66,97,91,8,Group Study,Secondary,No,189,High,Yes,No
+67,Male,16,SS3,54,43,73,7,Individual,Primary,Yes,234,Low,Yes,No
+68,Female,16,SS3,60,91,87,20,Tutorials,Tertiary,No,295,High,Yes,No
+69,Male,17,SS3,55,94,70,6,Individual,Secondary,Yes,311,High,Yes,No
+70,Male,17,SS3,66,91,90,5,Tutorials,Primary,No,304,Medium,Yes,No
+71,Male,17,SS3,98,91,93,17,Individual,Primary,No,305,High,Yes,No
+72,Female,18,SS3,86,78,89,7,Individual,Secondary,Yes,296,High,Yes,Yes
+73,Female,16,SS3,60,65,72,8,Individual,Tertiary,Yes,250,High,No,Yes
+74,Female,17,SS3,57,82,94,13,Group Study,Secondary,Yes,247,Low,No,Yes
+75,Male,18,SS3,92,60,93,9,Group Study,Secondary,No,202,Medium,No,No
+76,Male,17,SS3,44,83,88,7,Individual,Primary,No,250,High,No,No
+77,Female,16,SS3,76,48,71,17,Tutorials,Tertiary,Yes,166,Medium,No,No
+78,Male,16,SS3,63,86,92,14,Group Study,Secondary,Yes,286,Medium,Yes,No
+79,Female,17,SS3,47,41,97,12,Tutorials,Tertiary,No,248,High,No,Yes
+80,Female,18,SS3,72,81,72,12,Individual,Tertiary,Yes,198,High,Yes,No
+81,Female,16,SS3,83,71,81,14,Tutorials,Primary,No,271,Medium,No,Yes
+82,Male,16,SS3,97,58,99,19,Group Study,Primary,No,177,Medium,Yes,Yes
+83,Female,16,SS3,43,56,86,9,Tutorials,Primary,Yes,234,Low,No,No
+84,Male,17,SS3,51,98,73,9,Tutorials,Secondary,Yes,295,Low,Yes,No
+85,Male,18,SS3,54,66,79,10,Individual,Secondary,No,265,Low,Yes,Yes
+86,Female,18,SS3,91,65,95,5,Individual,Tertiary,Yes,313,Low,No,No
+87,Female,18,SS3,73,64,91,6,Tutorials,Secondary,Yes,227,Low,Yes,No
+88,Female,18,SS3,42,87,79,16,Tutorials,Primary,Yes,173,Medium,Yes,Yes
+89,Female,18,SS3,65,42,89,15,Individual,Secondary,Yes,193,High,No,No
+90,Male,17,SS3,44,77,72,20,Group Study,Tertiary,No,176,High,Yes,No
+91,Male,17,SS3,96,85,79,19,Group Study,Secondary,No,322,High,Yes,No
+92,Female,18,SS3,69,76,94,13,Tutorials,Secondary,No,291,Low,No,Yes
+93,Male,18,SS3,95,92,99,19,Individual,Tertiary,Yes,195,Low,No,Yes
+94,Male,17,SS3,58,52,84,9,Tutorials,Tertiary,Yes,158,High,No,No
+95,Male,17,SS3,89,61,82,10,Individual,Secondary,No,326,High,No,No
+96,Male,18,SS3,94,86,82,19,Group Study,Primary,No,304,High,No,Yes
+97,Male,18,SS3,59,85,96,18,Tutorials,Primary,No,275,Medium,Yes,No
+98,Female,17,SS3,60,54,91,14,Individual,Primary,No,156,Medium,Yes,Yes
+99,Male,16,SS3,45,83,70,16,Tutorials,Primary,Yes,197,High,No,No
+100,Female,18,SS3,75,74,85,20,Group Study,Secondary,No,200,High,No,No
+101,Female,16,SS3,69,80,75,12,Group Study,Secondary,Yes,167,Low,Yes,No
+102,Female,18,SS3,40,90,87,7,Tutorials,Tertiary,No,248,High,No,No
+103,Female,18,SS3,63,70,77,19,Tutorials,Tertiary,Yes,222,Low,Yes,No
+104,Male,18,SS3,52,98,74,14,Tutorials,Secondary,No,202,Medium,Yes,No
+105,Male,18,SS3,58,100,93,16,Individual,Primary,No,209,Medium,Yes,No
+106,Female,16,SS3,76,82,82,18,Individual,Tertiary,No,224,High,No,No
+107,Female,17,SS3,90,62,95,13,Tutorials,Tertiary,No,318,High,No,No
+108,Male,17,SS3,59,72,95,9,Group Study,Secondary,No,284,Medium,Yes,Yes
+109,Female,16,SS3,87,59,97,14,Tutorials,Secondary,No,167,Medium,Yes,No
+110,Female,17,SS3,79,94,87,5,Tutorials,Primary,Yes,266,High,No,No
+111,Male,17,SS3,55,50,79,5,Group Study,Secondary,No,164,Low,Yes,Yes
+112,Female,17,SS3,69,93,100,9,Group Study,Tertiary,No,244,Low,Yes,No
+113,Male,17,SS3,63,82,90,16,Individual,Tertiary,Yes,282,Medium,Yes,Yes
+114,Female,17,SS3,77,96,74,14,Tutorials,Primary,No,152,Low,Yes,No
+115,Male,18,SS3,71,75,79,20,Tutorials,Primary,No,193,High,Yes,No
+116,Male,16,SS3,89,51,91,5,Tutorials,Primary,Yes,233,High,No,No
+117,Female,17,SS3,89,58,98,20,Tutorials,Secondary,Yes,255,Low,Yes,Yes
+118,Male,17,SS3,52,46,99,20,Group Study,Secondary,No,250,Medium,Yes,Yes
+119,Male,17,SS3,86,70,100,14,Tutorials,Primary,No,190,High,Yes,Yes
+120,Female,18,SS3,97,48,95,5,Tutorials,Tertiary,Yes,178,Low,Yes,Yes
+121,Male,17,SS3,74,87,97,18,Tutorials,Tertiary,Yes,183,Medium,No,No
+122,Male,17,SS3,88,56,93,14,Tutorials,Secondary,No,287,High,Yes,Yes
+123,Female,16,SS3,90,86,90,12,Individual,Tertiary,Yes,257,High,Yes,Yes
+124,Female,18,SS3,55,91,81,5,Tutorials,Secondary,No,272,High,No,Yes
+125,Male,17,SS3,49,75,100,16,Group Study,Tertiary,No,340,Medium,Yes,No
+126,Male,16,SS3,40,88,100,11,Individual,Secondary,No,167,Low,Yes,Yes
+127,Female,16,SS3,99,98,70,18,Tutorials,Secondary,Yes,249,High,No,No
+128,Female,16,SS3,66,51,87,18,Group Study,Tertiary,No,202,High,Yes,No
+129,Male,16,SS3,41,100,97,17,Individual,Tertiary,No,183,High,No,Yes
+130,Male,17,SS3,54,83,87,12,Individual,Secondary,Yes,202,High,Yes,Yes
+131,Male,16,SS3,74,97,74,10,Tutorials,Tertiary,Yes,229,High,No,Yes
+132,Male,18,SS3,62,61,73,17,Individual,Primary,No,260,Low,No,No
+133,Male,18,SS3,80,81,71,17,Tutorials,Secondary,Yes,331,Low,No,Yes
+134,Female,17,SS3,93,45,70,12,Tutorials,Tertiary,No,320,High,Yes,Yes
+135,Male,16,SS3,84,54,88,13,Individual,Tertiary,No,271,Low,No,No
+136,Male,18,SS3,96,62,89,7,Individual,Tertiary,Yes,190,Low,No,Yes
+137,Male,16,SS3,40,54,82,18,Individual,Primary,Yes,304,High,No,No
+138,Female,18,SS3,100,87,87,12,Individual,Secondary,Yes,297,High,Yes,Yes
+139,Male,18,SS3,61,95,87,13,Individual,Primary,Yes,229,Low,Yes,No
+140,Female,18,SS3,40,59,100,14,Group Study,Tertiary,No,300,Low,No,No
+141,Female,17,SS3,88,66,72,13,Group Study,Primary,No,201,High,No,No
+142,Male,18,SS3,82,90,79,18,Tutorials,Primary,Yes,278,Medium,Yes,Yes
+143,Male,16,SS3,64,96,76,11,Tutorials,Secondary,No,333,Medium,Yes,Yes
+144,Female,17,SS3,94,61,93,7,Tutorials,Secondary,No,325,Low,Yes,Yes
+145,Female,17,SS3,87,63,93,10,Individual,Tertiary,No,267,Low,No,Yes
+146,Female,18,SS3,86,56,98,9,Tutorials,Primary,No,220,Low,No,Yes
+147,Female,17,SS3,59,77,93,14,Tutorials,Secondary,Yes,201,High,Yes,Yes
+148,Female,18,SS3,46,58,81,8,Individual,Primary,Yes,151,Low,No,No
+149,Male,16,SS3,53,69,76,19,Group Study,Primary,Yes,186,High,Yes,No
+150,Male,17,SS3,73,94,83,19,Tutorials,Secondary,No,264,Low,Yes,Yes
+151,Male,18,SS3,55,47,98,13,Individual,Secondary,Yes,166,Low,No,Yes
+152,Male,17,SS3,66,70,90,20,Tutorials,Secondary,Yes,252,High,Yes,No
+153,Female,17,SS3,71,43,97,11,Group Study,Tertiary,No,304,Medium,Yes,No
+154,Male,16,SS3,43,95,86,15,Tutorials,Secondary,Yes,213,Low,Yes,Yes
+155,Male,18,SS3,49,80,74,5,Group Study,Primary,Yes,284,Low,Yes,Yes
+156,Male,18,SS3,85,77,75,9,Tutorials,Secondary,No,234,Low,Yes,Yes
+157,Male,16,SS3,57,77,75,6,Individual,Secondary,No,295,High,Yes,Yes
+158,Male,16,SS3,45,100,77,5,Tutorials,Tertiary,No,275,Medium,No,No
+159,Male,18,SS3,42,79,89,10,Tutorials,Tertiary,No,267,Medium,No,Yes
+160,Male,17,SS3,98,44,96,8,Group Study,Primary,No,268,High,Yes,No
+161,Male,16,SS3,54,70,78,14,Individual,Tertiary,No,297,Low,No,No
+162,Male,16,SS3,97,96,76,13,Individual,Primary,No,160,Medium,No,Yes
+163,Female,17,SS3,94,52,73,9,Group Study,Tertiary,Yes,338,High,No,No
+164,Male,18,SS3,73,72,75,19,Group Study,Primary,Yes,173,Low,No,Yes
+165,Male,17,SS3,66,47,91,5,Tutorials,Primary,Yes,223,Low,Yes,Yes
+166,Female,16,SS3,84,95,95,12,Group Study,Tertiary,Yes,315,Medium,No,Yes
+167,Female,17,SS3,97,83,88,7,Individual,Primary,No,266,Low,Yes,No
+168,Male,18,SS3,63,64,97,9,Individual,Tertiary,Yes,238,High,Yes,Yes
+169,Male,16,SS3,69,73,71,5,Group Study,Secondary,No,329,Medium,Yes,Yes
+170,Female,17,SS3,87,59,97,20,Tutorials,Secondary,Yes,332,High,Yes,Yes
+171,Male,18,SS3,45,66,94,11,Individual,Tertiary,Yes,226,High,No,Yes
+172,Female,18,SS3,77,43,99,15,Individual,Secondary,No,250,Medium,Yes,No
+173,Female,18,SS3,46,95,87,18,Individual,Secondary,Yes,306,Low,Yes,Yes
+174,Male,18,SS3,72,94,84,14,Group Study,Tertiary,Yes,194,High,Yes,No
+175,Male,18,SS3,48,49,90,20,Tutorials,Tertiary,Yes,256,Medium,No,No
+176,Male,18,SS3,80,48,87,16,Group Study,Tertiary,No,213,High,Yes,No
+177,Female,16,SS3,92,52,72,19,Tutorials,Secondary,No,195,Medium,No,Yes
+178,Female,18,SS3,65,61,79,6,Group Study,Primary,No,308,High,Yes,No
+179,Female,18,SS3,44,66,91,15,Tutorials,Tertiary,No,337,Medium,No,No
+180,Female,18,SS3,77,76,72,7,Tutorials,Tertiary,No,260,High,No,No
+181,Female,17,SS3,76,97,78,9,Group Study,Secondary,No,267,High,Yes,Yes
+182,Male,16,SS3,43,98,73,6,Tutorials,Primary,No,248,High,No,Yes
+183,Male,16,SS3,67,69,76,13,Individual,Primary,No,318,Low,Yes,No
+184,Male,17,SS3,82,49,93,17,Individual,Primary,Yes,196,High,Yes,No
+185,Female,18,SS3,48,60,88,7,Group Study,Tertiary,Yes,328,Low,No,No
+186,Female,17,SS3,55,95,85,20,Individual,Secondary,Yes,295,High,No,No
+187,Male,17,SS3,58,85,100,10,Tutorials,Secondary,Yes,174,Low,No,No
+188,Male,17,SS3,56,51,80,11,Group Study,Secondary,Yes,250,Low,Yes,Yes
+189,Male,16,SS3,94,89,81,13,Individual,Secondary,Yes,328,Low,Yes,Yes
+190,Male,16,SS3,60,45,74,17,Group Study,Secondary,Yes,161,Low,Yes,No
+191,Female,16,SS3,99,71,91,5,Tutorials,Primary,Yes,211,Low,No,No
+192,Male,18,SS3,91,61,90,8,Group Study,Primary,Yes,190,Medium,No,No
+193,Female,18,SS3,65,80,77,12,Individual,Primary,Yes,220,Low,No,No
+194,Male,17,SS3,84,51,73,17,Group Study,Primary,No,310,Low,No,Yes
+195,Female,16,SS3,93,60,79,19,Group Study,Tertiary,Yes,287,High,No,No
+196,Female,16,SS3,87,80,89,12,Tutorials,Primary,Yes,224,High,Yes,Yes
+197,Male,18,SS3,60,43,72,6,Group Study,Primary,No,320,Low,Yes,No
+198,Male,18,SS3,60,40,98,11,Individual,Tertiary,Yes,167,High,No,No
+199,Female,16,SS3,68,68,76,19,Individual,Tertiary,Yes,328,Medium,Yes,No
+200,Male,16,SS3,57,57,80,8,Individual,Tertiary,No,335,Medium,No,Yes
+201,Male,18,SS3,54,53,85,11,Group Study,Tertiary,No,334,Low,No,No
+202,Male,18,SS3,44,88,84,20,Tutorials,Tertiary,Yes,205,High,No,Yes
+203,Male,16,SS3,100,89,80,17,Individual,Tertiary,No,276,High,No,Yes
+204,Male,17,SS3,52,50,89,14,Tutorials,Tertiary,No,255,Medium,Yes,No
+205,Male,17,SS3,48,76,91,15,Tutorials,Tertiary,Yes,345,Low,No,Yes
+206,Female,17,SS3,89,88,79,10,Group Study,Primary,Yes,291,High,No,No
+207,Female,17,SS3,89,50,92,6,Group Study,Secondary,Yes,181,Medium,No,No
+208,Female,16,SS3,77,71,88,8,Tutorials,Secondary,Yes,244,Medium,No,No
+209,Male,17,SS3,46,90,74,13,Tutorials,Primary,No,169,Medium,Yes,Yes
+210,Female,17,SS3,49,88,88,20,Individual,Primary,No,343,High,No,No
+211,Male,18,SS3,46,89,88,14,Group Study,Primary,No,176,Low,No,No
+212,Male,17,SS3,50,45,81,11,Tutorials,Primary,Yes,279,Medium,No,Yes
+213,Female,18,SS3,68,48,95,16,Individual,Secondary,No,346,Medium,Yes,Yes
+214,Male,18,SS3,69,79,80,6,Group Study,Secondary,Yes,349,Low,Yes,Yes
+215,Female,16,SS3,60,67,100,11,Group Study,Secondary,Yes,233,Medium,Yes,Yes
+216,Female,16,SS3,66,80,83,8,Group Study,Tertiary,No,254,High,Yes,Yes
+217,Female,16,SS3,47,67,75,12,Individual,Secondary,No,265,Medium,Yes,No
+218,Female,16,SS3,74,65,70,18,Individual,Primary,Yes,192,High,Yes,Yes
+219,Female,18,SS3,62,67,80,15,Individual,Secondary,No,214,Low,No,Yes
+220,Female,16,SS3,89,70,77,5,Individual,Tertiary,Yes,203,High,No,Yes
+221,Male,18,SS3,53,64,95,10,Individual,Tertiary,Yes,279,Low,Yes,No
+222,Male,16,SS3,68,40,77,13,Tutorials,Secondary,No,161,Low,No,No
+223,Female,17,SS3,59,42,92,8,Tutorials,Primary,No,268,High,Yes,Yes
+224,Male,17,SS3,69,74,93,17,Group Study,Tertiary,No,156,High,Yes,Yes
+225,Male,18,SS3,56,52,90,12,Individual,Secondary,No,168,Medium,No,No
+226,Male,17,SS3,94,86,83,5,Tutorials,Primary,Yes,313,High,No,No
+227,Female,17,SS3,47,63,78,6,Tutorials,Tertiary,No,327,High,Yes,No
+228,Male,18,SS3,45,100,96,20,Individual,Primary,No,322,High,No,No
+229,Male,17,SS3,50,40,81,9,Individual,Primary,No,341,Low,No,No
+230,Female,17,SS3,91,97,74,16,Individual,Primary,No,268,High,No,Yes
+231,Male,17,SS3,83,60,91,7,Group Study,Tertiary,Yes,247,Medium,No,Yes
+232,Male,16,SS3,59,88,93,12,Tutorials,Primary,Yes,237,High,Yes,No
+233,Male,18,SS3,92,93,80,10,Individual,Tertiary,Yes,340,High,Yes,No
+234,Male,16,SS3,85,73,98,20,Group Study,Primary,No,252,High,Yes,Yes
+235,Male,17,SS3,84,52,85,7,Individual,Secondary,No,199,High,Yes,No
+236,Male,17,SS3,78,41,84,15,Individual,Primary,Yes,251,High,No,Yes
+237,Male,16,SS3,42,83,84,6,Individual,Primary,No,159,Low,No,No
+238,Female,17,SS3,53,40,81,6,Tutorials,Primary,No,152,Medium,Yes,No
+239,Male,18,SS3,93,80,94,16,Individual,Primary,No,214,Low,No,No
+240,Male,18,SS3,94,86,79,9,Tutorials,Secondary,Yes,179,Medium,No,Yes
+241,Male,18,SS3,60,55,85,8,Tutorials,Tertiary,No,331,Medium,Yes,No
+242,Male,17,SS3,49,54,87,9,Group Study,Primary,No,184,Medium,No,No
+243,Female,18,SS3,45,84,73,20,Group Study,Primary,No,233,Low,No,No
+244,Female,18,SS3,85,96,75,12,Tutorials,Primary,No,321,High,No,Yes
+245,Female,17,SS3,55,62,90,15,Tutorials,Secondary,Yes,341,Low,Yes,Yes
+246,Male,16,SS3,62,59,89,16,Individual,Secondary,Yes,268,Low,No,No
+247,Female,16,SS3,65,48,72,19,Individual,Primary,No,274,Medium,Yes,Yes
+248,Male,17,SS3,72,46,96,11,Tutorials,Primary,Yes,268,Low,No,No
+249,Female,18,SS3,43,64,78,5,Tutorials,Primary,No,167,High,No,Yes
+250,Female,16,SS3,83,72,97,17,Individual,Primary,No,171,Low,Yes,Yes
+251,Male,16,SS3,59,77,96,16,Individual,Tertiary,No,290,High,Yes,Yes
+252,Female,16,SS3,56,59,74,9,Individual,Tertiary,Yes,318,High,No,Yes
+253,Female,17,SS3,92,50,98,13,Individual,Tertiary,Yes,212,Medium,Yes,Yes
+254,Female,16,SS3,51,44,87,6,Group Study,Primary,No,332,Low,Yes,Yes
+255,Male,16,SS3,41,92,76,20,Individual,Secondary,No,262,Medium,No,No
+256,Male,17,SS3,100,42,78,19,Tutorials,Primary,Yes,185,High,Yes,Yes
+257,Female,17,SS3,65,59,93,14,Tutorials,Secondary,No,270,Low,No,Yes
+258,Male,17,SS3,94,100,98,20,Individual,Primary,No,221,Medium,Yes,No
+259,Male,16,SS3,68,58,90,11,Individual,Primary,No,191,Medium,No,No
+260,Male,16,SS3,75,69,72,10,Tutorials,Secondary,No,193,Medium,No,Yes
+261,Female,17,SS3,87,86,93,16,Tutorials,Tertiary,No,154,Low,No,No
+262,Male,18,SS3,75,73,72,15,Group Study,Primary,Yes,305,Low,Yes,Yes
+263,Female,17,SS3,55,78,98,19,Tutorials,Primary,Yes,175,Medium,Yes,No
+264,Male,16,SS3,46,73,70,13,Tutorials,Primary,No,195,Low,Yes,No
+265,Male,16,SS3,69,61,97,10,Tutorials,Tertiary,Yes,225,Low,Yes,Yes
+266,Female,17,SS3,46,67,86,7,Group Study,Primary,No,181,Medium,No,No
+267,Female,18,SS3,91,96,90,9,Tutorials,Tertiary,Yes,286,Low,No,Yes
+268,Male,18,SS3,90,83,70,19,Individual,Primary,Yes,339,Medium,No,No
+269,Female,16,SS3,48,48,96,14,Tutorials,Primary,Yes,250,Low,Yes,No
+270,Female,18,SS3,47,61,88,13,Tutorials,Tertiary,Yes,193,Low,Yes,No
+271,Male,18,SS3,40,97,88,16,Group Study,Secondary,No,169,Low,Yes,No
+272,Female,18,SS3,43,71,82,19,Individual,Primary,Yes,321,High,Yes,No
+273,Male,17,SS3,93,62,94,5,Tutorials,Primary,No,345,High,No,Yes
+274,Male,16,SS3,89,88,88,17,Group Study,Primary,No,152,Medium,No,Yes
+275,Female,17,SS3,54,52,76,10,Tutorials,Tertiary,No,323,High,Yes,No
+276,Male,18,SS3,48,50,99,5,Group Study,Secondary,Yes,219,Medium,No,Yes
+277,Male,16,SS3,52,100,71,16,Group Study,Tertiary,Yes,189,Low,No,No
+278,Male,17,SS3,92,98,87,12,Group Study,Secondary,Yes,262,High,No,No
+279,Female,16,SS3,65,98,78,15,Individual,Secondary,Yes,241,Medium,Yes,No
+280,Female,17,SS3,63,91,87,7,Group Study,Primary,No,195,High,No,No
+281,Male,16,SS3,83,65,98,17,Tutorials,Tertiary,No,205,High,Yes,Yes
+282,Female,17,SS3,80,41,87,11,Group Study,Tertiary,No,332,Medium,Yes,No
+283,Male,18,SS3,100,54,85,20,Tutorials,Tertiary,Yes,158,High,Yes,Yes
+284,Female,17,SS3,81,54,90,9,Individual,Primary,Yes,322,Medium,No,Yes
+285,Female,18,SS3,45,86,94,14,Individual,Tertiary,Yes,286,High,No,No
+286,Female,17,SS3,77,48,74,15,Group Study,Tertiary,Yes,205,Low,No,Yes
+287,Male,18,SS3,77,53,81,18,Tutorials,Primary,No,263,Low,Yes,No
+288,Male,18,SS3,56,86,82,15,Individual,Primary,No,328,Low,Yes,No
+289,Female,17,SS3,98,41,77,8,Individual,Tertiary,Yes,162,Medium,No,Yes
+290,Female,17,SS3,92,77,98,8,Group Study,Primary,Yes,312,Medium,No,Yes
+291,Male,16,SS3,44,72,94,7,Group Study,Tertiary,Yes,283,Low,No,No
+292,Male,17,SS3,41,50,88,6,Group Study,Primary,Yes,314,Medium,No,Yes
+293,Female,16,SS3,44,47,93,9,Tutorials,Tertiary,No,319,High,Yes,Yes
+294,Male,17,SS3,52,63,97,10,Group Study,Primary,No,333,High,No,No
+295,Female,16,SS3,97,85,79,6,Group Study,Secondary,No,318,High,No,Yes
+296,Male,18,SS3,81,81,74,11,Tutorials,Primary,No,176,High,No,Yes
+297,Female,17,SS3,68,90,84,8,Tutorials,Tertiary,Yes,249,High,Yes,Yes
+298,Female,18,SS3,91,42,86,20,Group Study,Primary,No,326,Medium,Yes,No
+299,Male,17,SS3,48,64,86,11,Tutorials,Tertiary,Yes,228,Medium,Yes,No
+300,Male,16,SS3,45,96,72,8,Tutorials,Primary,Yes,263,High,Yes,Yes
+301,Male,17,SS3,97,80,82,6,Group Study,Primary,Yes,163,Low,No,Yes
+302,Male,16,SS3,94,56,81,17,Tutorials,Tertiary,No,303,Medium,No,No
+303,Male,16,SS3,93,89,86,20,Group Study,Tertiary,No,151,Low,Yes,Yes
+304,Female,17,SS3,91,74,70,13,Group Study,Secondary,Yes,162,High,Yes,Yes
+305,Male,18,SS3,61,79,91,6,Tutorials,Secondary,Yes,347,High,No,No
+306,Female,17,SS3,47,43,77,16,Group Study,Tertiary,Yes,246,High,Yes,Yes
+307,Male,18,SS3,42,78,97,12,Individual,Tertiary,Yes,346,Low,No,No
+308,Male,16,SS3,100,43,100,7,Tutorials,Primary,Yes,201,High,No,Yes
+309,Female,17,SS3,69,82,95,5,Tutorials,Secondary,Yes,213,Low,Yes,Yes
+310,Female,17,SS3,43,46,89,11,Tutorials,Tertiary,Yes,245,Low,No,No
+311,Male,18,SS3,50,81,91,20,Group Study,Primary,Yes,211,Medium,No,No
+312,Female,17,SS3,99,93,75,7,Group Study,Primary,No,201,High,Yes,No
+313,Male,16,SS3,76,41,94,19,Tutorials,Secondary,Yes,173,High,No,No
+314,Male,17,SS3,67,43,86,6,Group Study,Secondary,No,154,Medium,Yes,No
+315,Male,16,SS3,92,84,74,16,Individual,Secondary,No,257,Low,No,No
+316,Female,16,SS3,86,47,84,18,Individual,Primary,No,157,High,Yes,No
+317,Female,18,SS3,65,66,75,16,Individual,Tertiary,Yes,153,High,Yes,Yes
+318,Male,18,SS3,71,68,75,6,Tutorials,Primary,Yes,236,Medium,Yes,Yes
+319,Male,16,SS3,41,64,88,13,Group Study,Secondary,No,199,High,Yes,Yes
+320,Male,18,SS3,64,47,100,6,Tutorials,Primary,No,324,Low,No,Yes
+321,Male,18,SS3,83,75,88,7,Individual,Secondary,Yes,321,High,Yes,Yes
+322,Female,16,SS3,67,56,91,14,Individual,Primary,Yes,166,High,No,No
+323,Male,17,SS3,51,70,97,7,Individual,Secondary,Yes,206,Medium,Yes,Yes
+324,Male,17,SS3,62,84,100,11,Tutorials,Primary,No,174,High,No,No
+325,Female,18,SS3,53,49,74,8,Tutorials,Tertiary,No,320,Medium,Yes,Yes
+326,Female,18,SS3,98,53,93,8,Individual,Primary,Yes,192,Low,Yes,Yes
+327,Male,16,SS3,51,84,93,12,Individual,Secondary,Yes,335,Medium,Yes,No
+328,Female,16,SS3,57,83,85,17,Group Study,Secondary,No,192,Medium,No,No
+329,Male,16,SS3,57,80,100,11,Group Study,Tertiary,No,161,Medium,No,No
+330,Male,16,SS3,68,40,81,11,Individual,Secondary,No,256,High,Yes,No
+331,Female,17,SS3,96,59,71,12,Group Study,Tertiary,Yes,281,Medium,No,Yes
+332,Male,16,SS3,49,66,77,10,Individual,Tertiary,Yes,177,Medium,No,Yes
+333,Female,16,SS3,42,82,94,18,Individual,Primary,No,233,Medium,Yes,Yes
+334,Male,18,SS3,79,46,85,8,Individual,Primary,No,232,High,No,Yes
+335,Male,16,SS3,79,82,77,16,Group Study,Secondary,No,293,High,No,Yes
+336,Female,18,SS3,79,73,72,19,Individual,Secondary,No,310,Low,No,Yes
+337,Female,16,SS3,55,57,78,18,Individual,Primary,Yes,198,Medium,No,Yes
+338,Female,16,SS3,81,79,81,8,Group Study,Secondary,Yes,309,High,No,Yes
+339,Male,18,SS3,58,78,77,10,Individual,Secondary,No,203,Low,No,Yes
+340,Male,17,SS3,71,84,71,10,Group Study,Secondary,Yes,288,Medium,No,No
+341,Male,17,SS3,66,48,91,17,Individual,Tertiary,Yes,251,Medium,No,Yes
+342,Male,18,SS3,96,66,76,15,Group Study,Tertiary,No,259,Medium,Yes,No
+343,Female,18,SS3,75,93,86,10,Tutorials,Secondary,No,180,Low,Yes,Yes
+344,Female,17,SS3,70,97,99,19,Individual,Tertiary,No,209,High,No,Yes
+345,Female,18,SS3,43,46,95,16,Group Study,Secondary,No,204,Low,No,Yes
+346,Male,18,SS3,45,72,81,15,Tutorials,Primary,No,177,Low,No,No
+347,Female,18,SS3,57,86,82,15,Individual,Tertiary,Yes,241,High,Yes,No
+348,Female,18,SS3,64,79,85,16,Group Study,Secondary,No,232,Low,Yes,No
+349,Female,18,SS3,48,47,99,18,Group Study,Secondary,Yes,194,Low,No,No
+350,Female,17,SS3,66,58,84,18,Tutorials,Secondary,Yes,153,Low,No,No
+351,Male,18,SS3,52,47,98,15,Individual,Primary,Yes,252,High,No,Yes
+352,Male,17,SS3,81,90,71,12,Group Study,Primary,Yes,317,Low,No,Yes
+353,Female,16,SS3,96,46,71,11,Tutorials,Secondary,No,230,Low,No,No
+354,Male,17,SS3,91,71,90,17,Tutorials,Tertiary,No,153,High,Yes,No
+355,Female,16,SS3,73,52,80,13,Group Study,Secondary,No,249,Medium,Yes,No
+356,Male,17,SS3,55,78,73,16,Individual,Primary,Yes,204,High,Yes,No
+357,Male,17,SS3,80,52,92,19,Tutorials,Primary,No,267,Medium,Yes,No
+358,Female,18,SS3,91,89,100,19,Individual,Tertiary,Yes,206,Low,Yes,No
+359,Female,17,SS3,74,56,86,17,Group Study,Secondary,No,166,Medium,No,No
+360,Female,17,SS3,90,93,90,5,Group Study,Tertiary,Yes,318,High,Yes,Yes
+361,Female,18,SS3,41,73,96,6,Group Study,Primary,Yes,221,High,No,Yes
+362,Male,16,SS3,64,52,78,14,Group Study,Secondary,Yes,316,High,Yes,Yes
+363,Female,17,SS3,90,62,96,5,Tutorials,Secondary,No,309,Low,No,No
+364,Male,18,SS3,85,85,93,9,Tutorials,Tertiary,No,244,Medium,Yes,Yes
+365,Female,16,SS3,62,66,78,14,Individual,Tertiary,No,161,Medium,No,No
+366,Male,17,SS3,70,58,88,5,Individual,Tertiary,No,167,High,No,No
+367,Female,17,SS3,74,50,87,14,Group Study,Primary,No,205,High,Yes,No
+368,Male,17,SS3,90,42,88,12,Individual,Primary,No,255,High,Yes,No
+369,Male,16,SS3,71,75,75,11,Group Study,Primary,Yes,227,High,No,Yes
+370,Female,16,SS3,62,71,82,15,Tutorials,Secondary,No,346,High,No,No
+371,Female,17,SS3,98,98,90,5,Tutorials,Secondary,Yes,303,Low,Yes,No
+372,Male,17,SS3,76,53,82,13,Group Study,Tertiary,No,277,Medium,Yes,Yes
+373,Female,16,SS3,72,84,81,9,Group Study,Tertiary,No,176,Low,No,Yes
+374,Female,18,SS3,60,99,88,8,Tutorials,Primary,Yes,332,High,Yes,No
+375,Male,16,SS3,64,70,90,6,Individual,Tertiary,No,287,Low,No,No
+376,Female,18,SS3,57,61,98,19,Individual,Primary,No,295,High,No,No
+377,Female,18,SS3,51,55,96,16,Group Study,Primary,No,193,Low,No,No
+378,Female,18,SS3,41,40,72,9,Tutorials,Secondary,Yes,214,High,No,Yes
+379,Female,17,SS3,60,40,86,9,Individual,Primary,No,174,Medium,Yes,Yes
+380,Female,17,SS3,78,82,78,13,Individual,Secondary,Yes,303,High,No,No
+381,Female,18,SS3,54,45,82,16,Tutorials,Primary,Yes,233,High,Yes,No
+382,Male,18,SS3,41,98,99,12,Group Study,Tertiary,No,311,High,No,Yes
+383,Male,18,SS3,97,47,77,12,Tutorials,Secondary,No,328,Medium,No,Yes
+384,Female,16,SS3,91,93,86,13,Tutorials,Primary,Yes,249,Low,No,Yes
+385,Female,17,SS3,89,76,82,14,Individual,Primary,No,323,High,No,No
+386,Male,18,SS3,57,82,81,7,Individual,Secondary,Yes,347,High,No,No
+387,Female,18,SS3,43,71,96,17,Individual,Tertiary,Yes,327,High,Yes,Yes
+388,Female,16,SS3,91,49,97,11,Individual,Secondary,No,184,High,Yes,Yes
+389,Male,17,SS3,70,100,81,7,Tutorials,Secondary,No,235,High,No,No
+390,Female,18,SS3,73,45,85,15,Group Study,Tertiary,Yes,194,Low,Yes,No
+391,Female,17,SS3,62,89,95,20,Tutorials,Tertiary,Yes,312,High,Yes,Yes
+392,Male,18,SS3,89,72,85,10,Group Study,Tertiary,Yes,344,Medium,Yes,No
+393,Female,16,SS3,77,44,98,20,Group Study,Secondary,No,326,Low,Yes,No
+394,Female,16,SS3,54,86,89,8,Individual,Tertiary,Yes,231,High,No,Yes
+395,Female,17,SS3,50,86,70,14,Tutorials,Secondary,No,320,High,No,No
+396,Female,16,SS3,46,46,86,6,Individual,Secondary,No,273,Low,No,Yes
+397,Female,17,SS3,55,97,98,17,Group Study,Secondary,Yes,167,Low,Yes,No
+398,Male,18,SS3,82,56,74,7,Tutorials,Tertiary,Yes,235,Low,No,No
+399,Female,16,SS3,55,81,84,6,Tutorials,Tertiary,No,154,Medium,Yes,No
+400,Male,18,SS3,57,54,75,15,Individual,Secondary,No,305,Low,No,Yes
+401,Male,18,SS3,74,69,77,16,Individual,Secondary,No,299,High,Yes,No
+402,Female,16,SS3,92,58,72,18,Tutorials,Tertiary,Yes,264,Medium,No,No
+403,Female,16,SS3,90,56,86,18,Individual,Secondary,Yes,247,Low,Yes,Yes
+404,Male,16,SS3,98,69,90,8,Individual,Primary,Yes,280,Medium,No,Yes
+405,Male,18,SS3,87,43,78,12,Group Study,Secondary,No,313,Medium,Yes,No
+406,Female,17,SS3,43,46,76,5,Tutorials,Primary,No,339,Medium,No,No
+407,Male,17,SS3,88,92,74,17,Tutorials,Primary,Yes,209,Low,Yes,No
+408,Male,18,SS3,100,51,75,6,Group Study,Secondary,No,278,Medium,No,Yes
+409,Male,18,SS3,54,95,75,14,Individual,Secondary,No,300,Low,No,No
+410,Male,18,SS3,76,42,81,6,Tutorials,Secondary,Yes,330,Medium,Yes,Yes
+411,Male,16,SS3,94,94,89,15,Individual,Primary,Yes,153,High,No,Yes
+412,Male,17,SS3,91,58,92,9,Group Study,Tertiary,No,209,Low,Yes,No
+413,Female,17,SS3,64,63,96,15,Individual,Primary,No,155,High,Yes,Yes
+414,Male,17,SS3,62,91,73,12,Individual,Primary,No,307,Low,Yes,Yes
+415,Female,17,SS3,99,83,91,9,Tutorials,Primary,Yes,344,Medium,Yes,Yes
+416,Female,17,SS3,93,60,77,6,Group Study,Tertiary,No,181,Medium,No,Yes
+417,Male,17,SS3,94,67,83,17,Group Study,Primary,Yes,229,Medium,No,Yes
+418,Female,18,SS3,51,87,95,19,Tutorials,Primary,Yes,210,Medium,Yes,No
+419,Female,18,SS3,51,47,80,7,Group Study,Secondary,No,338,Medium,No,Yes
+420,Female,16,SS3,55,46,93,12,Individual,Tertiary,Yes,259,Low,Yes,Yes
+421,Male,18,SS3,77,94,73,18,Tutorials,Primary,No,343,Low,Yes,No
+422,Male,18,SS3,60,88,85,14,Group Study,Primary,No,212,High,Yes,Yes
+423,Male,17,SS3,91,96,91,17,Individual,Secondary,Yes,308,High,Yes,No
+424,Male,16,SS3,87,42,85,9,Tutorials,Tertiary,Yes,170,High,No,Yes
+425,Female,17,SS3,84,40,85,9,Individual,Tertiary,No,165,Medium,Yes,No
+426,Male,16,SS3,62,94,76,15,Group Study,Secondary,No,185,Low,Yes,Yes
+427,Male,18,SS3,98,48,88,7,Tutorials,Primary,Yes,245,Medium,Yes,Yes
+428,Female,18,SS3,77,82,75,20,Tutorials,Secondary,Yes,277,High,Yes,No
+429,Male,17,SS3,41,81,90,6,Individual,Tertiary,Yes,225,High,No,No
+430,Male,17,SS3,85,50,96,17,Individual,Tertiary,No,201,Low,Yes,Yes
+431,Male,17,SS3,84,61,83,13,Group Study,Primary,Yes,188,Medium,Yes,No
+432,Female,18,SS3,62,62,70,7,Tutorials,Primary,No,246,High,No,Yes
+433,Male,18,SS3,100,97,77,17,Individual,Tertiary,Yes,202,Medium,No,No
+434,Female,18,SS3,76,68,71,18,Tutorials,Tertiary,No,314,Low,Yes,No
+435,Female,16,SS3,76,79,74,9,Group Study,Secondary,Yes,159,Medium,Yes,Yes
+436,Female,17,SS3,49,57,88,9,Group Study,Secondary,No,210,Low,Yes,Yes
+437,Female,16,SS3,76,96,88,20,Group Study,Primary,No,335,High,No,Yes
+438,Female,18,SS3,100,86,75,11,Group Study,Secondary,No,303,Medium,Yes,Yes
+439,Male,18,SS3,52,45,74,20,Group Study,Tertiary,No,263,Medium,Yes,No
+440,Female,16,SS3,93,63,90,17,Tutorials,Secondary,No,339,Medium,No,Yes
+441,Female,17,SS3,91,92,86,11,Tutorials,Secondary,No,234,Medium,No,Yes
+442,Female,17,SS3,96,61,71,12,Group Study,Tertiary,No,184,Low,Yes,No
+443,Male,18,SS3,71,51,98,12,Individual,Secondary,No,221,Low,No,Yes
+444,Female,18,SS3,74,47,88,7,Individual,Tertiary,No,231,Medium,Yes,No
+445,Female,18,SS3,59,65,74,13,Group Study,Secondary,Yes,314,High,Yes,Yes
+446,Male,17,SS3,51,65,71,18,Tutorials,Tertiary,Yes,344,Low,Yes,No
+447,Female,16,SS3,71,69,75,15,Tutorials,Tertiary,Yes,160,Medium,Yes,Yes
+448,Female,18,SS3,42,57,78,7,Individual,Primary,No,283,Medium,Yes,Yes
+449,Male,18,SS3,45,93,99,8,Individual,Primary,No,256,Low,No,No
+450,Female,16,SS3,43,64,75,18,Tutorials,Secondary,Yes,315,Low,Yes,No
+451,Male,17,SS3,54,84,86,18,Individual,Primary,Yes,223,Medium,Yes,No
+452,Female,18,SS3,78,94,100,16,Group Study,Secondary,Yes,342,Medium,Yes,Yes
+453,Female,17,SS3,54,70,82,16,Group Study,Secondary,No,156,Low,No,No
+454,Female,18,SS3,41,91,89,11,Individual,Secondary,No,208,Low,No,No
+455,Male,17,SS3,73,66,88,15,Group Study,Secondary,Yes,337,High,Yes,Yes
+456,Male,16,SS3,70,81,90,16,Individual,Secondary,Yes,234,High,Yes,No
+457,Male,18,SS3,40,96,70,5,Tutorials,Secondary,No,237,Low,Yes,Yes
+458,Male,18,SS3,61,91,98,14,Group Study,Primary,Yes,212,Medium,No,Yes
+459,Female,18,SS3,98,50,93,10,Individual,Primary,No,202,Low,No,Yes
+460,Male,18,SS3,79,47,93,16,Group Study,Primary,Yes,288,Medium,Yes,Yes
+461,Male,18,SS3,52,48,91,19,Group Study,Tertiary,Yes,163,Low,No,Yes
+462,Male,16,SS3,91,84,96,9,Tutorials,Tertiary,No,320,Low,Yes,Yes
+463,Female,18,SS3,48,86,79,19,Tutorials,Secondary,No,213,High,No,No
+464,Female,18,SS3,61,43,100,6,Tutorials,Tertiary,Yes,325,Medium,Yes,Yes
+465,Female,17,SS3,85,100,72,12,Individual,Primary,Yes,328,Low,No,Yes
+466,Female,18,SS3,51,94,76,11,Tutorials,Secondary,Yes,334,Medium,Yes,Yes
+467,Female,17,SS3,98,50,84,16,Tutorials,Secondary,No,206,Medium,No,Yes
+468,Male,16,SS3,91,46,89,9,Group Study,Primary,No,305,Medium,Yes,No
+469,Male,17,SS3,94,66,85,7,Tutorials,Secondary,No,247,Medium,Yes,No
+470,Female,17,SS3,95,98,97,8,Tutorials,Tertiary,No,283,Medium,No,Yes
+471,Female,16,SS3,60,77,85,6,Group Study,Secondary,No,232,Medium,No,Yes
+472,Male,16,SS3,43,70,75,12,Group Study,Secondary,No,196,Low,No,No
+473,Female,17,SS3,41,91,77,9,Group Study,Primary,Yes,263,High,No,Yes
+474,Female,17,SS3,49,76,96,14,Tutorials,Tertiary,Yes,311,Medium,Yes,Yes
+475,Male,16,SS3,77,83,83,5,Group Study,Tertiary,Yes,151,Low,Yes,No
+476,Female,16,SS3,85,68,89,15,Individual,Secondary,No,166,Medium,No,Yes
+477,Female,16,SS3,98,51,74,8,Tutorials,Tertiary,Yes,275,High,Yes,No
+478,Female,16,SS3,49,79,95,14,Group Study,Tertiary,No,167,Medium,Yes,No
+479,Female,16,SS3,89,64,88,19,Individual,Tertiary,No,199,Low,Yes,Yes
+480,Male,17,SS3,47,89,96,20,Tutorials,Tertiary,Yes,163,Low,Yes,No
+481,Female,16,SS3,94,62,94,5,Group Study,Tertiary,Yes,312,Medium,No,Yes
+482,Male,18,SS3,73,79,75,15,Group Study,Secondary,No,186,High,No,No
+483,Female,18,SS3,95,41,89,11,Tutorials,Secondary,Yes,202,Medium,No,No
+484,Female,18,SS3,63,95,91,11,Tutorials,Tertiary,Yes,182,Low,Yes,Yes
+485,Female,18,SS3,44,83,86,11,Group Study,Primary,No,173,Medium,Yes,Yes
+486,Male,16,SS3,63,96,78,13,Group Study,Tertiary,Yes,194,High,No,No
+487,Female,18,SS3,85,93,75,20,Group Study,Primary,Yes,301,Low,Yes,Yes
+488,Female,17,SS3,100,86,93,9,Tutorials,Secondary,No,290,Low,Yes,Yes
+489,Female,18,SS3,82,97,91,5,Group Study,Secondary,No,202,Low,Yes,No
+490,Male,16,SS3,65,48,80,17,Individual,Secondary,No,210,Medium,Yes,No
+491,Female,18,SS3,77,70,99,6,Group Study,Tertiary,No,279,Low,Yes,No
+492,Male,17,SS3,46,98,84,13,Individual,Secondary,No,170,Low,Yes,No
+493,Male,16,SS3,61,71,89,10,Tutorials,Tertiary,No,259,Medium,No,Yes
+494,Female,16,SS3,59,47,88,6,Group Study,Tertiary,No,335,Medium,Yes,No
+495,Male,16,SS3,60,96,72,14,Tutorials,Secondary,Yes,269,High,Yes,No
+496,Male,18,SS3,48,66,77,11,Group Study,Secondary,Yes,229,Medium,Yes,No
+497,Female,18,SS3,50,68,82,13,Group Study,Secondary,No,192,Low,No,No
+498,Male,16,SS3,86,42,82,6,Group Study,Primary,No,334,Low,Yes,No
+499,Female,18,SS3,100,44,74,19,Individual,Primary,No,200,High,Yes,Yes
+500,Male,17,SS3,67,56,73,5,Tutorials,Tertiary,Yes,212,Low,Yes,Yes
+501,Male,16,SS3,90,81,70,7,Tutorials,Primary,No,258,Medium,Yes,No
+502,Female,17,SS3,80,60,76,17,Group Study,Primary,Yes,195,High,No,Yes
+503,Female,17,SS3,71,40,86,13,Group Study,Secondary,No,305,Medium,No,Yes
+504,Female,18,SS3,81,85,97,16,Group Study,Secondary,No,213,Low,No,No
+505,Male,18,SS3,60,95,99,8,Individual,Tertiary,Yes,227,Medium,Yes,No
+506,Female,16,SS3,51,83,86,5,Individual,Tertiary,No,223,Medium,Yes,No
+507,Female,17,SS3,85,73,91,14,Tutorials,Primary,No,297,High,No,Yes
+508,Female,18,SS3,75,89,83,17,Tutorials,Tertiary,Yes,264,Medium,No,No
+509,Female,17,SS3,84,87,96,12,Individual,Secondary,No,312,High,No,No
+510,Female,18,SS3,96,76,74,17,Individual,Secondary,No,201,High,No,Yes
+511,Female,17,SS3,99,86,89,8,Group Study,Primary,Yes,219,Low,No,Yes
+512,Female,16,SS3,79,76,73,15,Tutorials,Secondary,Yes,350,Medium,No,No
+513,Male,18,SS3,90,54,75,20,Tutorials,Secondary,Yes,273,Medium,Yes,Yes
+514,Female,16,SS3,62,82,85,7,Tutorials,Secondary,No,170,High,No,No
+515,Male,17,SS3,54,95,98,10,Group Study,Secondary,Yes,242,High,Yes,No
+516,Male,17,SS3,82,61,89,11,Individual,Secondary,Yes,251,High,Yes,Yes
+517,Female,16,SS3,77,73,89,19,Group Study,Primary,Yes,246,Medium,No,Yes
+518,Male,17,SS3,92,73,71,5,Group Study,Tertiary,Yes,192,Low,No,Yes
+519,Male,18,SS3,51,84,98,6,Tutorials,Primary,Yes,270,Low,Yes,No
+520,Male,18,SS3,64,84,95,12,Group Study,Primary,No,262,Low,No,Yes
+521,Male,17,SS3,59,79,87,14,Individual,Primary,Yes,258,Low,Yes,No
+522,Male,17,SS3,86,46,86,15,Group Study,Tertiary,Yes,279,Low,Yes,No
+523,Male,17,SS3,84,67,94,20,Group Study,Secondary,Yes,306,Low,No,No
+524,Male,17,SS3,58,82,73,17,Individual,Tertiary,Yes,338,Medium,No,No
+525,Male,18,SS3,48,86,72,10,Group Study,Primary,No,260,High,No,Yes
+526,Male,18,SS3,51,55,85,5,Individual,Tertiary,Yes,344,Low,No,No
+527,Male,17,SS3,86,70,91,16,Group Study,Primary,Yes,189,High,No,Yes
+528,Female,16,SS3,40,62,74,16,Tutorials,Secondary,No,273,Low,No,No
+529,Male,16,SS3,100,82,98,16,Individual,Primary,Yes,155,Low,Yes,Yes
+530,Male,18,SS3,84,83,89,14,Tutorials,Secondary,No,345,High,No,Yes
+531,Female,16,SS3,100,81,87,12,Group Study,Primary,No,247,Medium,No,No
+532,Female,17,SS3,76,64,96,13,Individual,Primary,Yes,259,Medium,Yes,No
+533,Female,16,SS3,65,49,70,6,Group Study,Tertiary,No,171,High,No,No
+534,Male,18,SS3,94,93,98,13,Tutorials,Secondary,Yes,344,High,No,No
+535,Male,17,SS3,89,92,100,17,Group Study,Primary,No,226,Low,Yes,Yes
+536,Male,17,SS3,76,75,94,5,Group Study,Secondary,No,302,Medium,No,Yes
+537,Female,18,SS3,42,97,91,13,Group Study,Tertiary,Yes,287,Medium,Yes,No
+538,Male,16,SS3,51,79,90,12,Tutorials,Secondary,No,189,Medium,Yes,No
+539,Male,18,SS3,78,43,83,9,Tutorials,Tertiary,Yes,291,Medium,No,Yes
+540,Female,18,SS3,60,40,86,15,Individual,Tertiary,No,336,Medium,No,No
+541,Female,16,SS3,98,81,83,17,Group Study,Secondary,No,194,Low,No,Yes
+542,Female,17,SS3,91,99,81,9,Group Study,Secondary,No,215,Medium,No,Yes
+543,Male,16,SS3,79,50,97,7,Individual,Primary,Yes,247,Low,No,No
+544,Male,16,SS3,54,72,71,17,Group Study,Tertiary,Yes,268,High,Yes,No
+545,Male,17,SS3,80,94,92,12,Group Study,Secondary,Yes,228,Low,Yes,No
+546,Male,17,SS3,76,70,86,18,Group Study,Tertiary,Yes,266,High,Yes,No
+547,Female,18,SS3,46,94,83,12,Group Study,Primary,No,222,High,No,No
+548,Male,16,SS3,99,71,77,9,Group Study,Secondary,Yes,246,Low,No,Yes
+549,Male,17,SS3,71,95,100,18,Tutorials,Secondary,Yes,293,Low,Yes,No
+550,Female,16,SS3,49,50,95,14,Tutorials,Tertiary,No,305,Medium,No,No
+551,Female,16,SS3,61,44,85,15,Tutorials,Secondary,Yes,273,Low,Yes,No
+552,Female,17,SS3,87,88,95,19,Individual,Secondary,Yes,168,Medium,Yes,No
+553,Male,17,SS3,44,71,94,9,Individual,Tertiary,No,235,High,Yes,No
+554,Female,16,SS3,55,60,82,11,Tutorials,Primary,No,184,Low,No,No
+555,Male,17,SS3,62,55,81,9,Individual,Secondary,Yes,333,High,No,Yes
+556,Female,16,SS3,60,61,88,11,Tutorials,Primary,Yes,270,Medium,Yes,Yes
+557,Female,17,SS3,50,57,95,9,Group Study,Tertiary,No,200,Low,No,Yes
+558,Male,18,SS3,80,43,93,14,Group Study,Tertiary,Yes,189,Medium,Yes,No
+559,Female,17,SS3,96,72,99,9,Group Study,Primary,Yes,198,High,Yes,No
+560,Female,16,SS3,45,54,94,18,Tutorials,Secondary,Yes,151,Low,No,No
+561,Female,17,SS3,92,75,96,9,Individual,Secondary,No,153,High,Yes,No
+562,Male,16,SS3,85,81,92,10,Tutorials,Tertiary,No,278,High,No,Yes
+563,Female,17,SS3,82,64,88,15,Individual,Tertiary,Yes,336,High,Yes,Yes
+564,Male,16,SS3,80,65,73,7,Individual,Secondary,No,335,High,No,Yes
+565,Female,16,SS3,86,92,83,8,Group Study,Primary,Yes,245,Low,No,No
+566,Female,17,SS3,96,55,74,10,Group Study,Tertiary,No,275,Low,Yes,Yes
+567,Female,16,SS3,61,45,78,15,Tutorials,Secondary,No,253,High,Yes,Yes
+568,Female,18,SS3,68,69,85,9,Tutorials,Secondary,No,256,High,No,Yes
+569,Female,18,SS3,40,68,94,5,Group Study,Secondary,No,251,High,No,No
+570,Female,17,SS3,56,91,77,15,Tutorials,Primary,Yes,340,Low,Yes,Yes
+571,Male,16,SS3,53,76,99,18,Group Study,Secondary,Yes,245,Low,Yes,Yes
+572,Male,16,SS3,55,68,97,18,Tutorials,Tertiary,Yes,248,Low,Yes,No
+573,Female,16,SS3,84,45,72,14,Individual,Primary,Yes,275,Low,No,Yes
+574,Female,17,SS3,44,94,79,19,Tutorials,Tertiary,Yes,228,Medium,Yes,No
+575,Male,17,SS3,62,71,89,13,Group Study,Primary,No,314,Low,No,No
+576,Female,18,SS3,56,68,98,9,Tutorials,Secondary,No,300,Medium,No,No
+577,Female,16,SS3,90,60,87,11,Individual,Secondary,Yes,168,Low,No,Yes
+578,Female,18,SS3,46,47,83,8,Individual,Primary,No,254,Low,No,No
+579,Male,17,SS3,86,71,78,9,Individual,Secondary,Yes,159,Medium,Yes,Yes
+580,Female,17,SS3,40,87,76,10,Group Study,Tertiary,No,181,Low,Yes,Yes
+581,Female,18,SS3,43,81,70,5,Tutorials,Secondary,No,248,High,Yes,Yes
+582,Male,16,SS3,64,41,92,13,Group Study,Primary,No,294,Low,No,Yes
+583,Female,16,SS3,68,46,93,12,Group Study,Tertiary,Yes,191,Low,No,No
+584,Male,16,SS3,86,65,95,12,Group Study,Tertiary,No,199,Low,Yes,No
+585,Female,17,SS3,66,66,70,12,Tutorials,Primary,Yes,345,Medium,No,Yes
+586,Female,16,SS3,50,42,88,5,Group Study,Tertiary,No,261,Medium,No,Yes
+587,Female,16,SS3,96,75,86,16,Tutorials,Tertiary,Yes,215,High,Yes,Yes
+588,Female,18,SS3,66,75,73,7,Individual,Primary,Yes,347,Medium,Yes,Yes
+589,Female,18,SS3,71,40,86,20,Tutorials,Tertiary,No,342,High,No,No
+590,Male,18,SS3,96,92,70,9,Tutorials,Secondary,Yes,334,High,Yes,Yes
+591,Male,18,SS3,64,45,82,20,Group Study,Secondary,Yes,239,Low,No,Yes
+592,Male,17,SS3,62,90,90,16,Individual,Primary,Yes,280,Low,No,Yes
+593,Male,16,SS3,74,78,76,10,Tutorials,Tertiary,No,331,Medium,Yes,No
+594,Female,17,SS3,64,79,92,17,Tutorials,Tertiary,No,275,Medium,Yes,Yes
+595,Female,16,SS3,46,80,95,20,Group Study,Secondary,No,312,Medium,No,No
+596,Male,17,SS3,93,59,80,20,Individual,Secondary,Yes,326,Low,Yes,Yes
+597,Female,16,SS3,70,96,83,9,Group Study,Primary,Yes,244,High,Yes,No
+598,Female,16,SS3,90,72,81,10,Group Study,Secondary,Yes,328,Medium,No,Yes
+599,Female,16,SS3,95,75,73,11,Group Study,Primary,No,164,High,No,No
+600,Male,17,SS3,76,53,74,12,Group Study,Tertiary,Yes,316,Low,Yes,No
+601,Male,18,SS3,81,81,83,6,Tutorials,Secondary,Yes,248,Medium,No,Yes
+602,Female,18,SS3,88,82,90,18,Individual,Tertiary,No,258,Low,Yes,No
+603,Male,17,SS3,83,69,88,5,Individual,Secondary,No,338,Medium,Yes,No
+604,Female,16,SS3,54,100,78,13,Group Study,Secondary,Yes,213,Medium,No,No
+605,Male,16,SS3,50,61,78,18,Group Study,Tertiary,Yes,212,Medium,Yes,Yes
+606,Female,17,SS3,68,63,97,12,Tutorials,Tertiary,No,272,Medium,Yes,Yes
+607,Female,18,SS3,44,92,87,11,Group Study,Secondary,No,158,High,No,No
+608,Female,18,SS3,91,43,83,11,Group Study,Primary,Yes,242,Medium,Yes,Yes
+609,Female,16,SS3,94,92,88,7,Tutorials,Secondary,Yes,311,Low,No,No
+610,Female,18,SS3,42,54,81,10,Individual,Secondary,Yes,330,Medium,No,Yes
+611,Female,18,SS3,58,94,89,19,Individual,Secondary,No,323,Low,No,No
+612,Female,18,SS3,41,69,78,20,Group Study,Tertiary,No,157,Low,No,No
+613,Female,16,SS3,60,61,91,15,Individual,Tertiary,No,328,Low,No,No
+614,Female,18,SS3,56,75,82,19,Individual,Secondary,No,320,Low,No,No
+615,Female,16,SS3,100,89,94,12,Individual,Tertiary,No,315,Low,Yes,No
+616,Female,17,SS3,46,79,76,18,Tutorials,Tertiary,Yes,187,High,No,Yes
+617,Male,17,SS3,44,78,83,17,Individual,Primary,No,216,High,No,No
+618,Male,16,SS3,61,70,87,6,Group Study,Primary,Yes,304,Medium,Yes,No
+619,Male,18,SS3,50,85,95,17,Group Study,Tertiary,Yes,266,Low,No,Yes
+620,Female,17,SS3,96,82,87,15,Tutorials,Tertiary,Yes,324,Medium,No,Yes
+621,Male,16,SS3,64,63,85,17,Group Study,Tertiary,No,187,Medium,No,Yes
+622,Male,18,SS3,50,85,75,6,Tutorials,Primary,Yes,215,Medium,No,Yes
+623,Male,17,SS3,86,68,81,8,Group Study,Tertiary,No,213,High,Yes,No
+624,Male,16,SS3,44,47,87,19,Group Study,Secondary,Yes,304,Low,No,No
+625,Female,18,SS3,75,46,87,19,Group Study,Primary,Yes,298,Medium,Yes,No
+626,Female,18,SS3,100,88,85,6,Individual,Tertiary,No,319,Low,Yes,Yes
+627,Female,16,SS3,97,82,78,12,Tutorials,Tertiary,No,191,Medium,Yes,No
+628,Male,18,SS3,45,54,79,17,Group Study,Secondary,Yes,153,Medium,Yes,Yes
+629,Male,17,SS3,61,40,88,6,Group Study,Secondary,No,179,Medium,Yes,Yes
+630,Female,16,SS3,78,61,81,17,Group Study,Tertiary,No,347,Medium,Yes,Yes
+631,Male,18,SS3,79,62,94,6,Tutorials,Tertiary,No,173,Medium,Yes,No
+632,Female,18,SS3,97,93,92,11,Individual,Tertiary,No,314,Low,No,Yes
+633,Male,18,SS3,70,80,82,14,Tutorials,Secondary,No,332,Low,No,Yes
+634,Female,18,SS3,85,91,93,19,Tutorials,Tertiary,Yes,248,High,Yes,Yes
+635,Male,18,SS3,41,58,74,17,Individual,Tertiary,No,251,Low,Yes,No
+636,Male,16,SS3,67,75,97,14,Individual,Tertiary,No,330,High,Yes,No
+637,Female,17,SS3,100,73,97,14,Group Study,Primary,Yes,300,High,Yes,Yes
+638,Male,17,SS3,81,63,91,19,Tutorials,Tertiary,No,170,Low,No,No
+639,Male,16,SS3,50,84,73,10,Tutorials,Primary,No,282,Medium,Yes,No
+640,Female,18,SS3,78,46,93,18,Individual,Secondary,Yes,198,Medium,Yes,Yes
+641,Male,17,SS3,96,42,77,14,Group Study,Secondary,Yes,258,High,No,No
+642,Female,17,SS3,67,97,84,6,Group Study,Primary,Yes,192,Medium,Yes,Yes
+643,Male,17,SS3,50,50,95,9,Individual,Primary,No,259,High,Yes,No
+644,Male,18,SS3,43,71,92,19,Group Study,Primary,Yes,214,High,Yes,No
+645,Female,16,SS3,46,48,100,19,Group Study,Tertiary,Yes,327,High,No,No
+646,Female,17,SS3,61,92,75,7,Group Study,Tertiary,Yes,227,High,Yes,No
+647,Female,16,SS3,53,85,73,8,Tutorials,Secondary,No,278,Medium,No,Yes
+648,Female,17,SS3,52,87,76,10,Individual,Secondary,No,286,Low,No,No
+649,Female,16,SS3,66,86,86,9,Group Study,Secondary,No,318,High,No,No
+650,Male,18,SS3,84,66,82,17,Individual,Secondary,Yes,247,Medium,No,Yes
+651,Male,18,SS3,75,46,95,18,Group Study,Primary,Yes,300,Low,Yes,Yes
+652,Female,18,SS3,86,56,80,15,Group Study,Tertiary,Yes,228,High,Yes,No
+653,Female,16,SS3,99,79,95,19,Individual,Primary,No,337,Medium,No,Yes
+654,Male,18,SS3,86,52,87,5,Tutorials,Secondary,Yes,255,Low,Yes,No
+655,Male,18,SS3,74,52,89,10,Individual,Secondary,No,342,Low,Yes,Yes
+656,Female,17,SS3,56,47,92,19,Group Study,Secondary,No,336,Low,No,No
+657,Female,16,SS3,82,99,91,11,Individual,Tertiary,No,172,High,Yes,Yes
+658,Male,16,SS3,58,94,92,19,Group Study,Primary,No,177,High,No,No
+659,Male,17,SS3,59,65,71,7,Group Study,Secondary,Yes,312,High,No,Yes
+660,Male,18,SS3,55,53,75,13,Tutorials,Tertiary,Yes,296,Low,Yes,Yes
+661,Male,17,SS3,46,69,82,15,Individual,Tertiary,Yes,348,Low,Yes,No
+662,Female,18,SS3,43,92,100,10,Group Study,Primary,No,238,High,No,Yes
+663,Male,16,SS3,65,90,90,8,Individual,Secondary,No,186,High,No,No
+664,Male,18,SS3,76,52,70,7,Individual,Primary,Yes,218,Low,No,No
+665,Male,17,SS3,75,85,95,8,Group Study,Primary,No,341,Low,No,Yes
+666,Female,18,SS3,93,61,72,19,Individual,Primary,Yes,203,High,No,No
+667,Male,17,SS3,71,46,96,16,Tutorials,Primary,Yes,341,Medium,Yes,No
+668,Female,18,SS3,49,88,74,7,Group Study,Primary,Yes,251,Low,Yes,No
+669,Female,16,SS3,43,66,85,17,Tutorials,Primary,No,328,Low,No,Yes
+670,Female,16,SS3,63,42,99,10,Individual,Secondary,No,228,High,No,No
+671,Female,16,SS3,40,99,89,17,Individual,Secondary,Yes,151,High,Yes,No
+672,Female,18,SS3,67,80,83,17,Group Study,Secondary,Yes,193,Medium,No,No
+673,Female,17,SS3,45,93,72,6,Individual,Tertiary,No,275,Medium,Yes,Yes
+674,Male,16,SS3,58,83,72,10,Group Study,Secondary,Yes,150,High,Yes,No
+675,Male,17,SS3,92,77,78,15,Group Study,Secondary,Yes,174,Medium,Yes,No
+676,Male,16,SS3,82,47,77,9,Tutorials,Tertiary,No,167,Low,Yes,No
+677,Male,16,SS3,80,89,81,10,Tutorials,Primary,No,348,High,No,No
+678,Female,16,SS3,78,97,72,9,Group Study,Primary,Yes,328,High,Yes,No
+679,Male,16,SS3,70,68,89,10,Individual,Primary,No,256,Low,Yes,Yes
+680,Male,17,SS3,52,69,71,6,Group Study,Secondary,No,284,Low,Yes,Yes
+681,Male,17,SS3,46,82,93,18,Group Study,Primary,Yes,256,Low,Yes,No
+682,Male,18,SS3,41,77,82,14,Individual,Primary,Yes,317,Low,No,No
+683,Male,17,SS3,53,72,99,14,Individual,Secondary,Yes,223,Medium,No,Yes
+684,Male,18,SS3,50,48,82,19,Individual,Secondary,No,337,High,Yes,Yes
+685,Male,17,SS3,80,71,89,14,Group Study,Tertiary,Yes,260,High,No,Yes
+686,Female,17,SS3,58,40,90,10,Individual,Tertiary,No,193,Medium,Yes,No
+687,Female,16,SS3,45,73,86,8,Group Study,Primary,No,195,High,No,No
+688,Female,18,SS3,70,87,79,9,Individual,Tertiary,Yes,245,Medium,Yes,Yes
+689,Female,16,SS3,94,43,92,11,Tutorials,Primary,Yes,197,Medium,No,No
+690,Male,17,SS3,47,75,100,5,Group Study,Tertiary,Yes,330,Medium,No,No
+691,Male,17,SS3,59,99,89,13,Tutorials,Secondary,Yes,184,High,No,Yes
+692,Female,16,SS3,90,67,71,5,Tutorials,Primary,Yes,200,High,Yes,No
+693,Female,18,SS3,65,93,100,19,Group Study,Primary,Yes,274,Low,Yes,No
+694,Female,17,SS3,70,77,94,20,Tutorials,Primary,Yes,196,Medium,Yes,Yes
+695,Male,17,SS3,71,70,96,20,Tutorials,Secondary,No,278,Low,Yes,Yes
+696,Male,16,SS3,97,99,75,5,Group Study,Tertiary,Yes,178,Medium,No,No
+697,Female,17,SS3,82,72,90,20,Group Study,Secondary,No,265,Medium,No,No
+698,Male,17,SS3,56,89,85,12,Individual,Primary,Yes,295,High,No,No
+699,Female,17,SS3,45,98,84,11,Tutorials,Secondary,Yes,204,High,Yes,Yes
+700,Male,18,SS3,81,98,70,20,Individual,Secondary,No,197,Low,No,No
+701,Male,17,SS3,74,51,76,19,Group Study,Tertiary,No,201,Low,Yes,No
+702,Male,17,SS3,64,84,97,18,Tutorials,Tertiary,Yes,165,High,Yes,No
+703,Female,17,SS3,51,77,91,19,Individual,Primary,No,341,Medium,No,No
+704,Male,16,SS3,63,51,99,7,Individual,Secondary,Yes,196,High,No,No
+705,Male,17,SS3,96,86,95,5,Individual,Tertiary,No,344,Low,Yes,Yes
+706,Male,18,SS3,64,92,86,12,Group Study,Primary,No,199,Medium,No,No
+707,Male,17,SS3,63,48,79,13,Tutorials,Primary,No,216,Low,Yes,Yes
+708,Female,17,SS3,51,46,76,11,Individual,Primary,No,254,High,Yes,No
+709,Female,18,SS3,68,64,71,6,Tutorials,Tertiary,Yes,262,Low,No,No
+710,Female,17,SS3,42,82,95,10,Group Study,Tertiary,No,310,High,Yes,No
+711,Male,16,SS3,56,78,89,9,Group Study,Tertiary,No,309,Low,Yes,Yes
+712,Female,18,SS3,68,78,86,6,Individual,Primary,No,177,High,Yes,No
+713,Female,17,SS3,69,96,86,16,Individual,Tertiary,Yes,312,Medium,Yes,No
+714,Female,16,SS3,56,60,92,6,Tutorials,Tertiary,Yes,192,Medium,No,No
+715,Female,17,SS3,54,72,77,9,Group Study,Tertiary,Yes,170,High,Yes,Yes
+716,Female,18,SS3,93,96,89,6,Tutorials,Tertiary,No,225,High,No,Yes
+717,Female,16,SS3,57,64,75,14,Group Study,Secondary,No,171,High,Yes,No
+718,Male,18,SS3,76,66,91,15,Tutorials,Secondary,No,246,Low,No,Yes
+719,Male,17,SS3,43,78,71,7,Group Study,Primary,No,181,Low,No,No
+720,Female,17,SS3,49,98,81,6,Individual,Primary,Yes,220,Medium,No,Yes
+721,Female,16,SS3,88,84,77,8,Group Study,Tertiary,No,166,High,No,Yes
+722,Female,16,SS3,84,88,90,18,Group Study,Primary,Yes,237,Medium,Yes,Yes
+723,Male,17,SS3,82,55,70,10,Individual,Secondary,No,157,High,Yes,Yes
+724,Male,18,SS3,46,57,75,10,Tutorials,Secondary,Yes,299,Medium,No,Yes
+725,Male,17,SS3,45,65,72,14,Tutorials,Tertiary,Yes,210,Medium,No,Yes
+726,Male,17,SS3,82,61,78,10,Group Study,Tertiary,Yes,272,High,Yes,No
+727,Female,17,SS3,62,58,94,19,Individual,Secondary,No,274,Medium,Yes,No
+728,Male,18,SS3,91,68,82,16,Tutorials,Tertiary,Yes,322,Low,No,No
+729,Male,18,SS3,74,91,81,6,Individual,Tertiary,Yes,344,Low,No,No
+730,Female,17,SS3,66,48,91,7,Individual,Primary,Yes,175,Low,No,No
+731,Female,16,SS3,88,48,82,14,Tutorials,Secondary,Yes,152,Low,Yes,Yes
+732,Female,18,SS3,77,66,82,15,Group Study,Primary,No,165,High,No,No
+733,Male,17,SS3,54,78,88,16,Individual,Primary,No,218,Low,No,Yes
+734,Female,17,SS3,75,84,76,17,Individual,Primary,Yes,342,High,No,Yes
+735,Female,17,SS3,43,96,86,7,Group Study,Primary,Yes,151,High,Yes,No
+736,Male,16,SS3,93,87,70,18,Group Study,Primary,Yes,320,Low,Yes,No
+737,Female,18,SS3,64,72,93,7,Tutorials,Secondary,No,299,High,No,Yes
+738,Female,17,SS3,92,59,92,14,Group Study,Secondary,No,160,Medium,No,Yes
+739,Female,18,SS3,73,93,72,20,Tutorials,Secondary,Yes,174,High,Yes,Yes
+740,Female,17,SS3,66,84,99,9,Tutorials,Secondary,No,204,High,No,No
+741,Female,17,SS3,74,75,72,8,Individual,Tertiary,No,283,High,Yes,Yes
+742,Male,18,SS3,83,95,87,13,Group Study,Primary,Yes,151,High,No,No
+743,Male,16,SS3,95,60,79,15,Group Study,Secondary,Yes,246,Medium,Yes,No
+744,Female,16,SS3,99,85,93,18,Individual,Tertiary,No,304,Medium,No,No
+745,Female,18,SS3,70,87,96,11,Individual,Secondary,Yes,283,Low,No,No
+746,Female,18,SS3,76,99,87,11,Group Study,Tertiary,No,344,Medium,No,Yes
+747,Female,17,SS3,96,75,99,6,Tutorials,Primary,Yes,218,High,Yes,Yes
+748,Female,17,SS3,55,80,88,8,Group Study,Secondary,No,274,Medium,Yes,No
+749,Male,18,SS3,70,53,81,7,Group Study,Tertiary,Yes,271,High,Yes,Yes
+750,Female,18,SS3,59,52,81,20,Individual,Secondary,Yes,343,Low,Yes,No
+751,Male,18,SS3,45,53,100,14,Tutorials,Secondary,No,236,Low,Yes,Yes
+752,Female,16,SS3,65,79,96,18,Individual,Tertiary,Yes,304,Low,Yes,Yes
+753,Female,16,SS3,97,85,78,15,Group Study,Primary,No,259,Low,Yes,No
+754,Female,16,SS3,94,58,77,13,Tutorials,Secondary,Yes,236,High,Yes,No
+755,Male,18,SS3,85,83,89,16,Individual,Primary,Yes,244,Low,No,Yes
+756,Female,18,SS3,42,62,100,9,Tutorials,Secondary,Yes,324,Medium,Yes,Yes
+757,Male,17,SS3,72,98,76,20,Tutorials,Secondary,Yes,237,Low,Yes,No
+758,Female,16,SS3,76,83,84,20,Tutorials,Tertiary,No,230,High,Yes,No
+759,Female,16,SS3,97,48,99,20,Group Study,Secondary,No,211,Low,No,Yes
+760,Male,16,SS3,73,85,82,10,Individual,Secondary,Yes,242,Medium,Yes,No
+761,Male,16,SS3,91,81,88,12,Individual,Primary,Yes,320,Low,No,No
+762,Female,18,SS3,76,51,70,14,Group Study,Tertiary,Yes,252,Medium,No,Yes
+763,Female,17,SS3,83,72,78,11,Tutorials,Tertiary,No,246,Low,No,No
+764,Female,17,SS3,79,74,75,5,Individual,Primary,Yes,306,High,Yes,Yes
+765,Male,17,SS3,49,84,83,8,Group Study,Tertiary,No,164,Low,Yes,No
+766,Male,18,SS3,47,80,86,5,Individual,Tertiary,No,241,Low,No,Yes
+767,Female,16,SS3,100,60,73,19,Tutorials,Primary,Yes,234,High,No,No
+768,Male,18,SS3,88,85,87,8,Individual,Tertiary,Yes,175,Low,Yes,No
+769,Female,16,SS3,68,47,72,11,Tutorials,Tertiary,Yes,150,Low,Yes,Yes
+770,Female,18,SS3,51,88,86,18,Tutorials,Primary,Yes,266,High,Yes,No
+771,Female,17,SS3,100,62,79,18,Group Study,Secondary,No,328,Medium,No,Yes
+772,Male,17,SS3,50,75,80,6,Tutorials,Tertiary,No,252,High,No,Yes
+773,Male,17,SS3,53,70,100,15,Group Study,Secondary,No,335,High,No,No
+774,Male,17,SS3,91,77,73,16,Individual,Secondary,Yes,185,Medium,Yes,Yes
+775,Male,16,SS3,52,76,95,11,Tutorials,Tertiary,No,156,Medium,Yes,No
+776,Female,18,SS3,48,100,86,5,Individual,Tertiary,Yes,304,Low,Yes,No
+777,Male,16,SS3,42,82,100,11,Tutorials,Secondary,Yes,181,High,No,No
+778,Female,18,SS3,67,85,78,14,Group Study,Tertiary,No,285,High,No,No
+779,Male,17,SS3,45,66,98,13,Individual,Primary,No,221,Medium,Yes,Yes
+780,Male,17,SS3,83,83,87,7,Individual,Tertiary,No,329,High,Yes,Yes
+781,Male,17,SS3,67,87,96,14,Individual,Primary,No,342,Low,No,Yes
+782,Female,18,SS3,52,97,95,14,Tutorials,Secondary,Yes,213,Medium,Yes,Yes
+783,Male,17,SS3,92,93,88,15,Tutorials,Secondary,No,244,High,Yes,No
+784,Male,16,SS3,80,74,78,5,Tutorials,Primary,Yes,265,Medium,Yes,Yes
+785,Female,16,SS3,49,58,92,8,Tutorials,Secondary,No,308,Medium,No,Yes
+786,Female,16,SS3,93,96,84,15,Group Study,Secondary,No,325,Low,No,No
+787,Female,18,SS3,78,94,100,15,Tutorials,Secondary,Yes,318,High,Yes,No
+788,Female,16,SS3,56,67,82,17,Group Study,Primary,Yes,271,Low,Yes,No
+789,Female,17,SS3,60,91,88,5,Tutorials,Primary,Yes,281,Medium,No,No
+790,Female,18,SS3,98,40,85,10,Individual,Secondary,Yes,255,Low,No,No
+791,Male,17,SS3,86,73,94,11,Tutorials,Primary,Yes,319,High,No,No
+792,Female,18,SS3,98,46,77,15,Group Study,Primary,Yes,198,Medium,Yes,Yes
+793,Male,16,SS3,91,41,94,15,Tutorials,Secondary,Yes,150,Low,Yes,No
+794,Female,17,SS3,44,64,80,20,Tutorials,Tertiary,No,313,Medium,No,No
+795,Male,17,SS3,45,49,100,20,Individual,Secondary,No,232,Low,Yes,No
+796,Male,18,SS3,64,43,94,6,Group Study,Tertiary,No,154,High,Yes,No
+797,Male,17,SS3,75,82,84,9,Group Study,Secondary,No,312,High,Yes,No
+798,Female,16,SS3,65,43,91,20,Individual,Primary,No,242,High,No,Yes
+799,Female,18,SS3,75,52,84,9,Individual,Secondary,Yes,161,Low,No,No
+800,Female,17,SS3,60,57,98,19,Individual,Primary,Yes,338,High,Yes,No
+801,Female,18,SS3,94,88,88,15,Tutorials,Secondary,Yes,233,High,No,Yes
+802,Male,17,SS3,57,90,97,19,Group Study,Secondary,Yes,323,High,Yes,Yes
+803,Female,16,SS3,73,50,70,18,Individual,Tertiary,Yes,263,Medium,No,No
+804,Female,16,SS3,69,58,85,6,Individual,Secondary,Yes,209,High,Yes,No
+805,Female,16,SS3,98,83,73,14,Group Study,Secondary,No,305,Medium,Yes,No
+806,Male,16,SS3,95,56,78,15,Tutorials,Tertiary,No,274,High,Yes,Yes
+807,Female,17,SS3,40,49,72,5,Tutorials,Secondary,No,252,High,No,Yes
+808,Female,16,SS3,90,93,82,11,Tutorials,Primary,No,339,High,Yes,No
+809,Female,18,SS3,84,43,90,15,Group Study,Primary,Yes,306,High,Yes,No
+810,Female,17,SS3,79,84,95,16,Tutorials,Tertiary,Yes,170,Low,Yes,Yes
+811,Female,16,SS3,77,90,77,7,Tutorials,Secondary,No,239,Medium,Yes,Yes
+812,Female,18,SS3,73,58,91,9,Group Study,Tertiary,No,259,Low,Yes,No
+813,Female,17,SS3,90,53,92,13,Group Study,Primary,No,271,Medium,No,No
+814,Male,18,SS3,66,88,77,5,Individual,Secondary,No,318,Medium,No,No
+815,Male,17,SS3,47,74,95,15,Group Study,Secondary,No,329,Low,No,No
+816,Female,18,SS3,66,42,80,17,Tutorials,Tertiary,Yes,175,High,No,No
+817,Male,16,SS3,49,62,83,10,Group Study,Tertiary,Yes,337,High,No,No
+818,Female,18,SS3,49,92,100,17,Tutorials,Tertiary,Yes,248,Medium,No,Yes
+819,Male,18,SS3,76,68,81,10,Individual,Tertiary,Yes,225,Low,No,Yes
+820,Female,17,SS3,77,46,86,8,Tutorials,Secondary,Yes,305,Medium,No,Yes
+821,Female,17,SS3,77,79,87,14,Tutorials,Secondary,No,199,Low,No,No
+822,Female,16,SS3,88,95,70,15,Tutorials,Tertiary,No,332,High,No,No
+823,Female,18,SS3,100,83,92,6,Group Study,Primary,Yes,186,High,Yes,No
+824,Male,18,SS3,46,87,96,13,Tutorials,Primary,Yes,283,Medium,No,Yes
+825,Female,18,SS3,99,75,78,18,Group Study,Tertiary,Yes,296,Medium,No,No
+826,Male,18,SS3,46,95,77,7,Individual,Tertiary,Yes,350,Low,No,No
+827,Male,16,SS3,76,54,79,20,Individual,Primary,No,333,Medium,No,Yes
+828,Female,17,SS3,89,87,72,12,Individual,Tertiary,Yes,279,Low,Yes,No
+829,Male,18,SS3,46,81,82,16,Tutorials,Secondary,No,158,Medium,No,Yes
+830,Female,16,SS3,90,75,91,19,Tutorials,Tertiary,No,182,Low,Yes,No
+831,Male,16,SS3,58,64,93,14,Individual,Primary,No,277,Medium,Yes,Yes
+832,Female,16,SS3,95,55,96,11,Individual,Primary,No,172,Low,No,Yes
+833,Male,16,SS3,74,72,80,14,Group Study,Secondary,No,227,Low,Yes,No
+834,Male,16,SS3,96,90,72,10,Group Study,Primary,No,322,Low,Yes,Yes
+835,Female,17,SS3,62,90,87,8,Individual,Tertiary,No,290,High,No,Yes
+836,Male,16,SS3,96,91,99,16,Individual,Secondary,Yes,269,Medium,No,Yes
+837,Male,17,SS3,66,84,75,6,Individual,Secondary,Yes,193,High,Yes,No
+838,Female,18,SS3,56,58,85,11,Individual,Tertiary,No,264,Low,Yes,Yes
+839,Female,18,SS3,64,84,80,7,Tutorials,Primary,Yes,179,High,No,Yes
+840,Female,17,SS3,81,82,81,19,Tutorials,Primary,No,273,Medium,No,No
+841,Female,17,SS3,71,43,76,5,Group Study,Primary,Yes,319,Low,Yes,No
+842,Male,18,SS3,76,99,98,20,Individual,Primary,Yes,288,Medium,Yes,No
+843,Female,16,SS3,78,64,88,9,Tutorials,Tertiary,Yes,211,Low,Yes,Yes
+844,Female,18,SS3,70,64,78,11,Tutorials,Tertiary,Yes,212,Low,No,No
+845,Female,16,SS3,42,66,75,15,Tutorials,Tertiary,No,204,Medium,Yes,No
+846,Female,16,SS3,51,90,100,20,Tutorials,Primary,Yes,193,High,No,No
+847,Male,17,SS3,57,83,93,14,Individual,Tertiary,Yes,342,High,No,No
+848,Male,17,SS3,65,60,91,15,Individual,Tertiary,No,318,Low,Yes,Yes
+849,Male,18,SS3,49,75,99,9,Tutorials,Secondary,No,329,Low,No,No
+850,Female,18,SS3,79,43,99,8,Individual,Secondary,No,172,Low,No,No
+851,Male,17,SS3,78,40,76,9,Tutorials,Secondary,Yes,177,Low,No,Yes
+852,Male,18,SS3,83,87,85,11,Tutorials,Secondary,No,261,Medium,No,No
+853,Female,17,SS3,84,56,93,6,Group Study,Tertiary,Yes,333,Low,No,No
+854,Male,17,SS3,65,52,76,19,Group Study,Primary,Yes,157,Medium,No,No
+855,Male,18,SS3,42,79,77,17,Individual,Secondary,No,191,High,No,No
+856,Female,16,SS3,65,95,93,8,Group Study,Primary,Yes,233,Medium,Yes,No
+857,Male,16,SS3,96,89,77,5,Group Study,Tertiary,Yes,248,Low,Yes,Yes
+858,Female,17,SS3,96,95,97,14,Individual,Tertiary,No,346,High,No,Yes
+859,Male,18,SS3,61,95,78,6,Group Study,Secondary,Yes,221,High,Yes,No
+860,Male,16,SS3,84,68,76,7,Individual,Secondary,Yes,206,Low,No,No
+861,Female,17,SS3,55,93,77,15,Group Study,Primary,Yes,334,High,No,Yes
+862,Male,17,SS3,43,54,76,19,Group Study,Primary,No,215,Low,No,No
+863,Female,18,SS3,87,98,96,6,Group Study,Secondary,No,320,High,No,No
+864,Female,18,SS3,70,80,77,8,Individual,Secondary,Yes,271,Low,Yes,Yes
+865,Female,17,SS3,98,85,96,14,Group Study,Primary,No,321,Medium,Yes,Yes
+866,Female,16,SS3,57,85,89,5,Tutorials,Secondary,Yes,181,Medium,No,No
+867,Male,18,SS3,97,81,81,14,Group Study,Secondary,Yes,320,Low,Yes,No
+868,Male,18,SS3,63,63,74,11,Individual,Tertiary,Yes,184,Low,No,No
+869,Female,18,SS3,41,88,94,15,Group Study,Primary,Yes,286,Low,Yes,No
+870,Male,16,SS3,61,77,73,11,Group Study,Primary,No,312,High,No,Yes
+871,Male,16,SS3,92,74,73,11,Tutorials,Primary,Yes,335,Low,Yes,Yes
+872,Male,17,SS3,90,87,99,14,Tutorials,Tertiary,Yes,275,Low,No,Yes
+873,Male,18,SS3,59,78,72,13,Group Study,Tertiary,No,173,Low,No,Yes
+874,Female,16,SS3,59,52,91,15,Individual,Tertiary,Yes,327,Low,No,Yes
+875,Male,16,SS3,57,89,100,19,Individual,Tertiary,No,235,Medium,Yes,No
+876,Female,18,SS3,93,86,91,8,Tutorials,Primary,Yes,207,Low,No,Yes
+877,Male,16,SS3,71,52,85,13,Tutorials,Primary,Yes,297,High,Yes,No
+878,Male,17,SS3,94,58,89,9,Group Study,Secondary,Yes,346,High,No,Yes
+879,Female,16,SS3,84,68,70,10,Individual,Primary,Yes,303,Low,Yes,Yes
+880,Female,16,SS3,83,51,94,13,Individual,Secondary,Yes,166,Low,Yes,No
+881,Female,17,SS3,46,83,97,8,Individual,Tertiary,No,314,Low,No,Yes
+882,Female,18,SS3,95,44,87,5,Individual,Primary,Yes,237,High,Yes,No
+883,Male,16,SS3,54,51,100,8,Tutorials,Primary,Yes,246,High,Yes,Yes
+884,Female,17,SS3,48,51,71,11,Tutorials,Secondary,Yes,333,Medium,No,No
+885,Female,18,SS3,59,87,97,16,Group Study,Tertiary,No,340,High,No,Yes
+886,Male,17,SS3,87,72,85,15,Individual,Secondary,Yes,338,Low,Yes,Yes
+887,Male,16,SS3,68,47,81,13,Group Study,Tertiary,No,335,Low,No,No
+888,Female,17,SS3,89,64,89,9,Group Study,Secondary,Yes,247,Low,No,No
+889,Female,16,SS3,92,42,80,14,Group Study,Primary,No,317,Medium,Yes,Yes
+890,Female,18,SS3,60,67,85,12,Group Study,Primary,No,314,High,Yes,Yes
+891,Female,18,SS3,57,57,98,10,Tutorials,Secondary,Yes,350,Medium,No,No
+892,Female,17,SS3,86,75,98,7,Tutorials,Primary,No,293,Low,Yes,Yes
+893,Female,16,SS3,66,56,98,14,Individual,Tertiary,No,261,Medium,No,No
+894,Female,18,SS3,78,48,88,15,Individual,Primary,Yes,209,Medium,No,Yes
+895,Male,17,SS3,81,50,97,19,Tutorials,Primary,No,207,Medium,Yes,No
+896,Female,18,SS3,45,77,78,6,Individual,Tertiary,Yes,216,Low,Yes,Yes
+897,Female,18,SS3,52,94,85,9,Tutorials,Tertiary,Yes,179,Low,No,Yes
+898,Male,16,SS3,68,56,75,5,Tutorials,Secondary,Yes,224,Low,Yes,Yes
+899,Male,18,SS3,53,40,94,20,Individual,Secondary,Yes,172,High,Yes,No
+900,Female,18,SS3,98,61,99,6,Individual,Tertiary,Yes,178,High,No,No
+901,Female,16,SS3,92,69,86,8,Tutorials,Secondary,Yes,172,Medium,Yes,Yes
+902,Female,18,SS3,66,85,78,17,Tutorials,Primary,No,237,High,No,No
+903,Female,18,SS3,87,99,82,6,Tutorials,Primary,No,339,High,Yes,Yes
+904,Male,16,SS3,71,49,77,7,Tutorials,Tertiary,No,301,Low,Yes,Yes
+905,Female,16,SS3,88,42,94,18,Tutorials,Primary,No,198,Low,No,No
+906,Female,18,SS3,73,49,88,17,Individual,Primary,Yes,340,Low,No,Yes
+907,Male,18,SS3,95,99,74,10,Individual,Secondary,Yes,179,Low,Yes,No
+908,Male,18,SS3,63,60,71,19,Individual,Secondary,Yes,296,High,No,Yes
+909,Female,18,SS3,92,78,86,16,Tutorials,Tertiary,No,244,Medium,No,Yes
+910,Female,17,SS3,43,43,95,14,Group Study,Secondary,Yes,182,Low,No,No
+911,Male,18,SS3,72,89,83,15,Individual,Secondary,No,230,High,Yes,Yes
+912,Female,16,SS3,90,99,85,11,Group Study,Primary,Yes,247,Medium,No,Yes
+913,Male,16,SS3,50,80,100,7,Individual,Secondary,Yes,297,Low,No,Yes
+914,Male,16,SS3,44,79,87,19,Group Study,Primary,No,338,Low,No,No
+915,Female,16,SS3,59,93,71,9,Individual,Tertiary,Yes,150,Low,Yes,No
+916,Male,18,SS3,85,82,86,7,Individual,Primary,No,229,Low,No,No
+917,Male,18,SS3,72,59,81,19,Individual,Secondary,Yes,165,Low,No,Yes
+918,Male,17,SS3,65,71,82,8,Group Study,Tertiary,Yes,301,Medium,Yes,No
+919,Female,18,SS3,48,90,97,19,Group Study,Tertiary,No,287,Medium,Yes,No
+920,Female,16,SS3,89,76,91,14,Individual,Primary,Yes,198,Low,No,Yes
+921,Male,18,SS3,94,75,94,19,Individual,Secondary,Yes,249,Medium,Yes,Yes
+922,Female,17,SS3,73,62,75,20,Individual,Primary,No,258,High,No,No
+923,Male,18,SS3,96,44,84,12,Group Study,Secondary,No,231,Medium,Yes,No
+924,Male,18,SS3,76,90,73,12,Tutorials,Primary,No,347,Low,No,Yes
+925,Female,16,SS3,41,85,92,9,Group Study,Primary,No,243,High,No,No
+926,Female,17,SS3,51,60,86,13,Tutorials,Secondary,Yes,323,Medium,Yes,No
+927,Female,18,SS3,52,73,84,16,Tutorials,Secondary,No,182,High,No,Yes
+928,Male,18,SS3,96,54,80,17,Individual,Primary,No,283,High,No,No
+929,Male,17,SS3,93,51,92,10,Group Study,Tertiary,No,319,Low,Yes,No
+930,Male,18,SS3,52,73,70,15,Group Study,Secondary,No,304,Medium,No,No
+931,Female,17,SS3,93,44,70,15,Tutorials,Primary,No,301,Low,No,No
+932,Female,17,SS3,43,90,91,19,Tutorials,Secondary,No,206,Low,Yes,Yes
+933,Male,16,SS3,55,72,76,20,Tutorials,Tertiary,No,177,Low,Yes,Yes
+934,Female,18,SS3,42,50,82,5,Group Study,Tertiary,Yes,251,Low,No,Yes
+935,Female,17,SS3,69,66,88,7,Group Study,Tertiary,Yes,152,Medium,No,No
+936,Female,17,SS3,43,74,73,20,Group Study,Secondary,Yes,287,Medium,No,Yes
+937,Female,17,SS3,98,74,80,8,Group Study,Primary,Yes,267,Low,No,Yes
+938,Male,16,SS3,63,65,81,16,Group Study,Primary,No,230,High,No,No
+939,Female,18,SS3,85,45,89,20,Individual,Secondary,Yes,187,Medium,No,No
+940,Male,16,SS3,52,62,97,19,Tutorials,Primary,No,225,Low,No,No
+941,Male,16,SS3,57,54,78,10,Group Study,Secondary,Yes,206,Medium,No,Yes
+942,Male,17,SS3,63,96,75,14,Individual,Tertiary,No,277,Low,No,Yes
+943,Female,17,SS3,92,53,87,16,Individual,Secondary,No,324,Low,No,No
+944,Female,17,SS3,69,82,78,9,Individual,Tertiary,No,266,High,Yes,Yes
+945,Male,17,SS3,72,61,77,8,Group Study,Primary,Yes,187,Low,Yes,No
+946,Female,16,SS3,65,61,78,17,Group Study,Tertiary,No,303,Low,No,Yes
+947,Male,17,SS3,80,63,85,8,Tutorials,Secondary,No,222,Medium,Yes,No
+948,Female,18,SS3,99,58,100,15,Tutorials,Tertiary,Yes,187,High,Yes,Yes
+949,Male,16,SS3,47,53,89,7,Group Study,Secondary,Yes,341,Medium,No,No
+950,Female,17,SS3,83,100,80,14,Tutorials,Tertiary,Yes,320,High,Yes,No
+951,Female,18,SS3,41,88,81,19,Individual,Tertiary,No,329,Low,No,Yes
+952,Female,17,SS3,55,79,75,17,Individual,Secondary,No,158,High,Yes,No
+953,Female,18,SS3,63,73,85,18,Group Study,Primary,No,303,Medium,No,No
+954,Female,17,SS3,71,70,83,12,Individual,Primary,Yes,231,Low,Yes,No
+955,Male,17,SS3,78,75,76,12,Individual,Tertiary,Yes,229,High,No,No
+956,Male,16,SS3,68,92,83,10,Tutorials,Primary,No,278,High,Yes,No
+957,Female,17,SS3,51,88,92,20,Group Study,Primary,No,326,Medium,No,No
+958,Male,18,SS3,95,81,94,17,Tutorials,Secondary,No,181,High,Yes,No
+959,Female,18,SS3,70,40,81,7,Individual,Primary,No,220,Medium,No,No
+960,Male,16,SS3,77,47,81,15,Group Study,Secondary,No,330,Medium,No,Yes
+961,Male,17,SS3,75,82,97,11,Group Study,Secondary,No,296,Low,Yes,Yes
+962,Female,16,SS3,62,62,82,18,Individual,Tertiary,No,272,Medium,Yes,Yes
+963,Female,17,SS3,62,68,78,18,Individual,Tertiary,No,311,Medium,Yes,No
+964,Female,16,SS3,50,55,84,15,Group Study,Tertiary,No,205,High,No,Yes
+965,Male,17,SS3,93,97,75,12,Individual,Tertiary,No,276,Medium,Yes,Yes
+966,Male,17,SS3,97,81,88,10,Individual,Tertiary,No,224,Medium,No,No
+967,Male,16,SS3,56,79,74,7,Group Study,Primary,No,330,High,Yes,No
+968,Male,16,SS3,87,98,88,20,Group Study,Primary,Yes,246,Low,No,No
+969,Female,16,SS3,93,79,91,8,Tutorials,Secondary,Yes,165,Low,No,No
+970,Female,16,SS3,84,55,77,19,Tutorials,Tertiary,No,235,Low,No,Yes
+971,Male,17,SS3,45,42,96,15,Tutorials,Tertiary,Yes,189,High,Yes,No
+972,Male,17,SS3,58,83,73,8,Individual,Secondary,No,333,Low,Yes,No
+973,Male,18,SS3,41,96,93,19,Tutorials,Secondary,Yes,203,Medium,Yes,No
+974,Male,17,SS3,64,60,78,10,Tutorials,Secondary,No,337,Low,Yes,No
+975,Female,16,SS3,43,64,95,14,Individual,Tertiary,Yes,207,Medium,Yes,Yes
+976,Female,16,SS3,50,98,77,17,Individual,Secondary,No,329,Medium,No,Yes
+977,Female,17,SS3,94,90,87,7,Individual,Primary,Yes,338,High,Yes,Yes
+978,Female,18,SS3,76,100,83,8,Tutorials,Tertiary,No,163,Medium,Yes,No
+979,Male,18,SS3,89,47,97,17,Tutorials,Primary,Yes,348,Low,Yes,No
+980,Female,17,SS3,53,64,82,15,Group Study,Tertiary,Yes,195,Low,No,No
+981,Male,16,SS3,94,56,76,20,Tutorials,Primary,Yes,274,High,No,Yes
+982,Female,16,SS3,54,74,74,6,Tutorials,Secondary,Yes,336,Medium,Yes,Yes
+983,Female,17,SS3,81,86,95,7,Individual,Primary,No,250,High,No,Yes
+984,Female,18,SS3,54,58,100,11,Individual,Tertiary,Yes,226,Medium,Yes,No
+985,Male,17,SS3,83,41,93,9,Tutorials,Secondary,Yes,318,Low,Yes,Yes
+986,Female,17,SS3,53,98,74,5,Group Study,Secondary,No,190,Low,Yes,Yes
+987,Male,17,SS3,57,73,85,9,Tutorials,Secondary,Yes,155,Medium,Yes,No
+988,Female,17,SS3,81,92,95,9,Individual,Primary,No,290,Low,Yes,No
+989,Female,16,SS3,66,89,70,19,Group Study,Primary,No,250,Low,Yes,No
+990,Male,16,SS3,72,63,75,14,Group Study,Secondary,No,236,Medium,Yes,No
+991,Female,17,SS3,41,72,83,17,Tutorials,Tertiary,No,258,Medium,Yes,Yes
+992,Male,18,SS3,95,91,85,19,Tutorials,Tertiary,Yes,323,Medium,Yes,No
+993,Female,17,SS3,89,72,74,11,Group Study,Secondary,Yes,271,Medium,Yes,Yes
+994,Female,16,SS3,89,68,98,11,Individual,Primary,No,239,Medium,No,No
+995,Male,16,SS3,83,71,97,15,Group Study,Secondary,Yes,343,Medium,Yes,No
+996,Female,18,SS3,40,42,90,14,Individual,Primary,No,250,High,No,No
+997,Female,17,SS3,70,58,86,14,Tutorials,Secondary,No,250,Medium,No,No
+998,Male,16,SS3,98,97,87,18,Group Study,Primary,No,168,High,Yes,Yes
+999,Male,16,SS3,48,81,93,16,Individual,Primary,No,285,High,Yes,No
+1000,Female,17,SS3,81,52,80,7,Individual,Secondary,No,336,Medium,No,Yes
