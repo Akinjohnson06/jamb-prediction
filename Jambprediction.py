@@ -9,10 +9,10 @@ import pickle
 import streamlit as st
 
 # loading the logistic trained model
-with open("C:/Users/AKIN-JOHNSON/Desktop/Student performance data/Jamb_pred_lr.sav", 'rb') as file:
+with open("Jamb_pred_lr.sav", 'rb') as file:
     lr_model = pickle.load(file)
 # loading the KNN trained model
-with open("C:/Users/AKIN-JOHNSON/Desktop/Student performance data/Jamb_pred_knn.sav", 'rb') as file:
+with open("Jamb_pred_knn.sav", 'rb') as file:
     knn_model = pickle.load(file)
 
 # creating a function for prediction for logistic regression
